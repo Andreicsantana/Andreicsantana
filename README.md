@@ -19,7 +19,7 @@
 
  <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Andreicsantana&show_icons=true&theme=aura_dark" style="max-width:100%;">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreicsantana&layout=compact&theme=algolia" style="max-width:100%;">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreicsantana&layout=compact&theme=aura_dark" style="max-width:100%;">
 </div>
  </div>
  
