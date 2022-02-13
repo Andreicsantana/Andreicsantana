@@ -41,7 +41,7 @@
  </a>
    </p> 
   
-   ![snake gif](https://github.com/Andreicsantana/Andreicsantana/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/Andreicsantana/Andreicsantana/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
