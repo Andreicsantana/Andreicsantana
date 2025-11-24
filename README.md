@@ -38,11 +38,6 @@
   
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif">
   
-  
-  
-   ![snake gif](https://github.com/Andreicsantana/Andreicsantana/blob/output/github-contribution-grid-snake.svg)
-  
-  
 </div>
 
 
