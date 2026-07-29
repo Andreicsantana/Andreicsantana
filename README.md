@@ -41,6 +41,12 @@
 </div>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/Andreicsantana?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/Andreicsantana?theme=light" />
+  <img alt="Andreicsantana's GitAscii Profile" src="https://gitascii.com/api/Andreicsantana" />
+</picture>
+
    
 
 
