@@ -39,15 +39,3 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif">
   
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/Andreicsantana?theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/Andreicsantana?theme=light" />
-  <img alt="Andreicsantana's GitAscii Profile" src="https://gitascii.com/api/Andreicsantana" />
-</picture>
-
-   
-
-
-
