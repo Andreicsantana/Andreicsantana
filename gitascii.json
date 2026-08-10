@@ -28,7 +28,9 @@
         "width": 150,
         "height": 150
       },
-      "config": {},
+      "config": {
+        "avatarUrl": "https://c.files.bbci.co.uk/4B64/production/_124700391_spllua.jpg"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 2,
@@ -62,7 +64,21 @@
         "width": 800,
         "height": 140
       },
-      "config": {},
+      "config": {
+        "selectedTechs": [
+          "js",
+          "react",
+          "nodejs",
+          "python",
+          "postgres",
+          "github",
+          "git",
+          "vscode",
+          "vercel",
+          "vue",
+          "vite"
+        ]
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
