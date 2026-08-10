@@ -15,8 +15,25 @@
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1786361570251_0",
+      "instanceId": "widget_1786370428410_0",
       "name": "Header Widget"
+    },
+    {
+      "widgetId": "avatar",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 150,
+        "height": 150
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1786370428410_1",
+      "name": "Avatar Widget"
     },
     {
       "widgetId": "bio",
@@ -28,13 +45,11 @@
         "width": 634,
         "height": 150
       },
-      "config": {
-        "animationType": "none"
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1786361570251_2",
+      "instanceId": "widget_1786370428410_2",
       "name": "Bio Widget"
     },
     {
@@ -47,29 +62,11 @@
         "width": 800,
         "height": 140
       },
-      "config": {
-        "selectedTechs": [
-          "html",
-          "css",
-          "js",
-          "react",
-          "vite",
-          "vue",
-          "nodejs",
-          "postgres",
-          "mysql",
-          "supabase",
-          "github",
-          "vercel"
-        ],
-        "animationType": "none",
-        "animationDuration": 400,
-        "animationPreviewKey": 3
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1786361570251_3",
+      "instanceId": "widget_1786370428410_3",
       "name": "Tech-stack Widget"
     },
     {
@@ -82,14 +79,11 @@
         "width": 390,
         "height": 210
       },
-      "config": {
-        "animationType": "none",
-        "animationPreviewKey": 14
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 5,
-      "instanceId": "widget_1786361570251_4",
+      "instanceId": "widget_1786370428410_4",
       "name": "Github-readme-stats Widget"
     },
     {
@@ -106,7 +100,7 @@
       "locked": false,
       "visible": true,
       "zIndex": 6,
-      "instanceId": "widget_1786361570251_5",
+      "instanceId": "widget_1786370428410_5",
       "name": "Streak-stats Widget"
     },
     {
@@ -123,28 +117,8 @@
       "locked": false,
       "visible": true,
       "zIndex": 7,
-      "instanceId": "widget_1786361570251_6",
+      "instanceId": "widget_1786370428410_6",
       "name": "Footer Widget"
-    },
-    {
-      "instanceId": "widget_1786362842541",
-      "widgetId": "avatar",
-      "name": "Avatar Widget",
-      "position": {
-        "x": 8,
-        "y": 106
-      },
-      "size": {
-        "width": 150,
-        "height": 150
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "avatarUrl": "https://c.files.bbci.co.uk/4B64/production/_124700391_spllua.jpg"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
