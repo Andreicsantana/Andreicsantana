@@ -11,7 +11,9 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -29,7 +31,8 @@
         "height": 150
       },
       "config": {
-        "avatarUrl": "https://c.files.bbci.co.uk/4B64/production/_124700391_spllua.jpg"
+        "avatarUrl": "https://c.files.bbci.co.uk/4B64/production/_124700391_spllua.jpg",
+        "animationType": "fade-in"
       },
       "locked": false,
       "visible": true,
@@ -47,7 +50,9 @@
         "width": 634,
         "height": 150
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -77,7 +82,8 @@
           "vercel",
           "vue",
           "vite"
-        ]
+        ],
+        "animationType": "fade-in"
       },
       "locked": false,
       "visible": true,
@@ -95,7 +101,9 @@
         "width": 390,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 5,
@@ -112,7 +120,9 @@
         "width": 390,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 6,
@@ -129,7 +139,9 @@
         "width": 800,
         "height": 48
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7,
