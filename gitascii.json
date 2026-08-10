@@ -28,7 +28,9 @@
         "width": 634,
         "height": 150
       },
-      "config": {},
+      "config": {
+        "animationType": "none"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -60,7 +62,7 @@
           "github",
           "vercel"
         ],
-        "animationType": "fade-in",
+        "animationType": "none",
         "animationDuration": 400,
         "animationPreviewKey": 3
       },
@@ -81,7 +83,7 @@
         "height": 210
       },
       "config": {
-        "animationType": "fade-in",
+        "animationType": "none",
         "animationPreviewKey": 14
       },
       "locked": false,
