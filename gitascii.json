@@ -32,7 +32,8 @@
       },
       "config": {
         "avatarUrl": "https://c.files.bbci.co.uk/4B64/production/_124700391_spllua.jpg",
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -51,7 +52,8 @@
         "height": 150
       },
       "config": {
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -83,7 +85,8 @@
           "vue",
           "vite"
         ],
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
