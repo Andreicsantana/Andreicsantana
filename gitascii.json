@@ -155,7 +155,7 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 22,
+        "x": 176,
         "y": 688
       },
       "size": {
@@ -299,7 +299,7 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget (Cópia)",
       "position": {
-        "x": 176,
+        "x": 22,
         "y": 688
       },
       "size": {
