@@ -286,7 +286,9 @@
             "image": "https://assets.tcgdex.net/en/xy/xy12/12"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/pl/pl4/1/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/pl/pl4/1/high.webp",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -428,7 +430,9 @@
             "image": "https://assets.tcgdex.net/en/sv/sv04.5/018"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/base/basep/1/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/base/basep/1/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -570,7 +574,9 @@
             "image": "https://assets.tcgdex.net/en/xy/xy12/51"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/base/basep/3/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/base/basep/3/high.webp",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -712,7 +718,9 @@
             "image": "https://assets.tcgdex.net/en/ecard/ecard1/48"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/base/base3/5/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/base/base3/5/high.webp",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -854,7 +862,9 @@
             "image": "https://assets.tcgdex.net/en/swsh/swsh4/132"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/pop/pop5/2/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/pop/pop5/2/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -996,7 +1006,9 @@
             "image": "https://assets.tcgdex.net/en/xy/xy6/87"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/pop/pop1/3/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/pop/pop1/3/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1138,7 +1150,9 @@
             "image": "https://assets.tcgdex.net/en/lc/lc/64"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/ex/ex15/10/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/ex/ex15/10/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1280,7 +1294,9 @@
             "image": "https://assets.tcgdex.net/en/xy/g1/23"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/hgss/hgss1/4/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/hgss/hgss1/4/high.webp",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1422,7 +1438,9 @@
             "image": "https://assets.tcgdex.net/en/pl/pl3/56"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/dp/dp6/2/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/dp/dp6/2/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1564,7 +1582,9 @@
             "image": "https://assets.tcgdex.net/en/tcgp/A3b/056"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/swsh/fut2020/2/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/swsh/fut2020/2/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1706,7 +1726,9 @@
             "image": "https://assets.tcgdex.net/en/hgss/hgss3/86"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/hgss/hgss3/10/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/hgss/hgss3/10/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1848,7 +1870,9 @@
             "image": "https://assets.tcgdex.net/en/bw/bw4/64"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/pop/pop6/2/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/pop/pop6/2/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -1990,7 +2014,9 @@
             "image": "https://assets.tcgdex.net/en/base/basep/14"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/neo/si1/1/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/neo/si1/1/high.webp",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -2132,7 +2158,9 @@
             "image": "https://assets.tcgdex.net/en/pl/pl3/36"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/gym/gym1/1/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/gym/gym1/1/high.webp",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -2274,7 +2302,9 @@
             "image": "https://assets.tcgdex.net/en/swsh/swsh11/130"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/dp/dp6/4/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/dp/dp6/4/high.webp",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
