@@ -12,7 +12,9 @@
         "height": 90
       },
       "config": {
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -34,7 +36,9 @@
         "avatarUrl": "https://c.files.bbci.co.uk/4B64/production/_124700391_spllua.jpg",
         "animationType": "fade-in",
         "sourceType": "url",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3652S-nyal1L2bXKuOgU5M8vJJdQFTaiB8ewlci5oHw&s=10"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3652S-nyal1L2bXKuOgU5M8vJJdQFTaiB8ewlci5oHw&s=10",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -53,7 +57,9 @@
         "height": 150
       },
       "config": {
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -85,7 +91,9 @@
           "vue",
           "vite"
         ],
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -104,7 +112,9 @@
         "height": 210
       },
       "config": {
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -123,7 +133,9 @@
         "height": 210
       },
       "config": {
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -142,7 +154,9 @@
         "height": 48
       },
       "config": {
-        "animationType": "fade-in"
+        "animationType": "fade-in",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -2312,7 +2326,7 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#09090b",
+    "backgroundColor": "transparent",
     "textColor": "#f4f4f5",
     "accentColor": "#a1a1aa",
     "borderColor": "#27272a",
