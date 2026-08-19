@@ -166,10 +166,10 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#09090b",
+    "backgroundColor": "transparent",
     "textColor": "#f4f4f5",
     "accentColor": "#a1a1aa",
-    "borderColor": "#27272a",
+    "borderColor": "transparent",
     "fontFamily": "'Inter Tight', sans-serif",
     "borderRadius": 12,
     "padding": 24,
