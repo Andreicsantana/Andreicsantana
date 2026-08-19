@@ -30,7 +30,14 @@
       },
       "config": {
         "customText": "HACK THE PLANET",
-        "fontSize": 14
+        "fontSize": 14,
+        "asciiLines": [
+          "██    ██  ▄████▄   ▄████▄  ██    ██      ████████ ██    ██ ████████      ███████▄ ██        ▄████▄  ██    ██ ████████ ████████",
+          "██    ██ ██    ██ ██    ▀▀ ██  ▄█▀          ██    ██    ██ ██            ██    ██ ██       ██    ██ ███   ██ ██          ██   ",
+          "████████ ████████ ██       █████▄           ██    ████████ ██████        ███████▀ ██       ████████ ██▀█  ██ ██████      ██   ",
+          "██    ██ ██    ██ ██    ▄▄ ██  ▀██▄         ██    ██    ██ ██            ██       ██       ██    ██ ██ ▀█ ██ ██          ██   ",
+          "██    ██ ██    ██  ▀████▀  ██    ██         ██    ██    ██ ████████      ██       ████████ ██    ██ ██   ███ ████████    ██   "
+        ]
       },
       "locked": false,
       "visible": true,
@@ -63,7 +70,7 @@
       },
       "size": {
         "width": 800,
-        "height": 140
+        "height": 160
       },
       "config": {},
       "locked": false,
@@ -116,7 +123,11 @@
         "width": 800,
         "height": 48
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationDuration": 3000
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7,
@@ -133,7 +144,8 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "hackerspace"
+    "templateStyle": "hackerspace",
+    "transparentBackground": false
   },
   "templateId": "hackerspace",
   "profileSlug": "default"
