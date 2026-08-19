@@ -15,102 +15,108 @@
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1787160549561_0",
+      "instanceId": "widget_1787160580633_0",
       "name": "Header Widget"
     },
     {
-      "widgetId": "ascii-text",
+      "widgetId": "avatar",
       "position": {
         "x": 0,
         "y": 106
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 150,
+        "height": 150
       },
-      "config": {
-        "customText": "HACK THE PLANET",
-        "fontSize": 14
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1787160549561_1",
-      "name": "Ascii-text Widget"
+      "instanceId": "widget_1787160580633_1",
+      "name": "Avatar Widget"
     },
     {
-      "widgetId": "terminal-info",
+      "widgetId": "bio",
       "position": {
-        "x": 0,
-        "y": 242
+        "x": 166,
+        "y": 106
       },
       "size": {
-        "width": 800,
-        "height": 280
+        "width": 634,
+        "height": 150
       },
       "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1787160549561_2",
-      "name": "Terminal-info Widget"
+      "instanceId": "widget_1787160580633_2",
+      "name": "Bio Widget"
     },
     {
-      "widgetId": "languages",
+      "widgetId": "tech-stack",
       "position": {
         "x": 0,
-        "y": 538
+        "y": 272
       },
       "size": {
         "width": 800,
         "height": 140
       },
-      "config": {},
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "py",
+          "css",
+          "c",
+          "java"
+        ]
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1787160549561_3",
-      "name": "Languages Widget"
+      "instanceId": "widget_1787160580633_3",
+      "name": "Tech-stack Widget"
     },
     {
-      "widgetId": "divider",
+      "widgetId": "github-readme-stats",
       "position": {
         "x": 0,
-        "y": 694
+        "y": 428
       },
       "size": {
-        "width": 800,
-        "height": 24
+        "width": 390,
+        "height": 210
       },
       "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 5,
-      "instanceId": "widget_1787160549561_4",
-      "name": "Divider Widget"
+      "instanceId": "widget_1787160580633_4",
+      "name": "Github-readme-stats Widget"
     },
     {
-      "widgetId": "readme-quotes",
+      "widgetId": "streak-stats",
       "position": {
-        "x": 0,
-        "y": 734
+        "x": 410,
+        "y": 428
       },
       "size": {
-        "width": 800,
-        "height": 140
+        "width": 390,
+        "height": 210
       },
       "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 6,
-      "instanceId": "widget_1787160549561_5",
-      "name": "Readme-quotes Widget"
+      "instanceId": "widget_1787160580633_5",
+      "name": "Streak-stats Widget"
     },
     {
       "widgetId": "footer",
       "position": {
         "x": 0,
-        "y": 890
+        "y": 654
       },
       "size": {
         "width": 800,
@@ -120,21 +126,21 @@
       "locked": false,
       "visible": true,
       "zIndex": 7,
-      "instanceId": "widget_1787160549561_6",
+      "instanceId": "widget_1787160580633_6",
       "name": "Footer Widget"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0a0f0a",
-    "textColor": "#00ff41",
-    "accentColor": "#00ff41",
-    "borderColor": "#1a3a1a",
-    "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 0,
+    "backgroundColor": "#09090b",
+    "textColor": "#f4f4f5",
+    "accentColor": "#a1a1aa",
+    "borderColor": "#27272a",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 12,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "hackerspace"
+    "templateStyle": "bento"
   },
-  "templateId": "hackerspace",
+  "templateId": "bento",
   "profileSlug": "default"
 }
