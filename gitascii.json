@@ -126,7 +126,9 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "animationDuration": 3000
+        "animationDuration": 3000,
+        "textColor": "#c5ff4a",
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
