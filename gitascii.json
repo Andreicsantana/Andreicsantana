@@ -11,11 +11,13 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1787160625386_0",
+      "instanceId": "widget_1787312689206_0",
       "name": "Header Widget"
     },
     {
@@ -31,6 +33,7 @@
       "config": {
         "customText": "HACK THE PLANET",
         "fontSize": 14,
+        "backgroundColor": "transparent",
         "asciiLines": [
           "██    ██  ▄████▄   ▄████▄  ██    ██      ████████ ██    ██ ████████      ███████▄ ██        ▄████▄  ██    ██ ████████ ████████",
           "██    ██ ██    ██ ██    ▀▀ ██  ▄█▀          ██    ██    ██ ██            ██    ██ ██       ██    ██ ███   ██ ██          ██   ",
@@ -42,7 +45,7 @@
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1787160625386_1",
+      "instanceId": "widget_1787312689206_1",
       "name": "Ascii-text Widget"
     },
     {
@@ -55,11 +58,13 @@
         "width": 800,
         "height": 280
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1787160625386_2",
+      "instanceId": "widget_1787312689206_2",
       "name": "Terminal-info Widget"
     },
     {
@@ -70,13 +75,15 @@
       },
       "size": {
         "width": 800,
-        "height": 160
+        "height": 140
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1787160625386_3",
+      "instanceId": "widget_1787312689206_3",
       "name": "Languages Widget"
     },
     {
@@ -89,51 +96,51 @@
         "width": 800,
         "height": 24
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 5,
-      "instanceId": "widget_1787160625386_4",
+      "instanceId": "widget_1787312689206_4",
       "name": "Divider Widget"
     },
     {
       "widgetId": "readme-quotes",
       "position": {
         "x": 0,
-        "y": 726
+        "y": 734
       },
       "size": {
         "width": 800,
-        "height": 232
+        "height": 216
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 6,
-      "instanceId": "widget_1787160625386_5",
+      "instanceId": "widget_1787312689206_5",
       "name": "Readme-quotes Widget"
     },
     {
       "widgetId": "footer",
       "position": {
         "x": 0,
-        "y": 966
+        "y": 998
       },
       "size": {
         "width": 800,
         "height": 48
       },
       "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "animationDuration": 3000,
-        "textColor": "#c5ff4a",
-        "backgroundColor": "#060606"
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
       "zIndex": 7,
-      "instanceId": "widget_1787160625386_6",
+      "instanceId": "widget_1787312689206_6",
       "name": "Footer Widget"
     }
   ],
@@ -147,7 +154,7 @@
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "hackerspace",
-    "transparentBackground": false
+    "transparentBackground": true
   },
   "templateId": "hackerspace",
   "profileSlug": "default"
