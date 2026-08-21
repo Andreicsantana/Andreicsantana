@@ -12,7 +12,10 @@
         "height": 90
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -40,7 +43,10 @@
           "████████ ████████ ██       █████▄           ██    ████████ ██████        ███████▀ ██       ████████ ██▀█  ██ ██████      ██   ",
           "██    ██ ██    ██ ██    ▄▄ ██  ▀██▄         ██    ██    ██ ██            ██       ██       ██    ██ ██ ▀█ ██ ██          ██   ",
           "██    ██ ██    ██  ▀████▀  ██    ██         ██    ██    ██ ████████      ██       ████████ ██    ██ ██   ███ ████████    ██   "
-        ]
+        ],
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -59,7 +65,10 @@
         "height": 280
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -78,7 +87,10 @@
         "height": 140
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -97,7 +109,10 @@
         "height": 24
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -116,7 +131,10 @@
         "height": 216
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -135,7 +153,10 @@
         "height": 48
       },
       "config": {
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1787312774351,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
