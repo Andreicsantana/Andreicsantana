@@ -15,7 +15,9 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7",
+        "textColor": "#ba00c7"
       },
       "locked": false,
       "visible": true,
@@ -39,7 +41,15 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7",
+        "asciiLines": [
+          "██    ██  ▄████▄   ▄████▄  ██    ██      ████████ ██    ██ ████████      ███████▄ ██        ▄████▄  ██    ██ ████████ ████████",
+          "██    ██ ██    ██ ██    ▀▀ ██  ▄█▀          ██    ██    ██ ██            ██    ██ ██       ██    ██ ███   ██ ██          ██   ",
+          "████████ ████████ ██       █████▄           ██    ████████ ██████        ███████▀ ██       ████████ ██▀█  ██ ██████      ██   ",
+          "██    ██ ██    ██ ██    ▄▄ ██  ▀██▄         ██    ██    ██ ██            ██       ██       ██    ██ ██ ▀█ ██ ██          ██   ",
+          "██    ██ ██    ██  ▀████▀  ██    ██         ██    ██    ██ ████████      ██       ████████ ██    ██ ██   ███ ████████    ██   "
+        ]
       },
       "locked": false,
       "visible": true,
@@ -61,7 +71,8 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7"
       },
       "locked": false,
       "visible": true,
@@ -83,7 +94,8 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7"
       },
       "locked": false,
       "visible": true,
@@ -105,7 +117,8 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7"
       },
       "locked": false,
       "visible": true,
@@ -127,7 +140,8 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7"
       },
       "locked": false,
       "visible": true,
@@ -149,7 +163,8 @@
         "backgroundColor": "transparent",
         "animationType": "fade-in",
         "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out"
+        "animationEasing": "ease-out",
+        "accentColor": "#ba00c7"
       },
       "locked": false,
       "visible": true,
