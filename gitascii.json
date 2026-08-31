@@ -147,7 +147,8 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "rugbedbugg"
+    "templateStyle": "rugbedbugg",
+    "transparentBackground": true
   },
   "templateId": "rugbedbugg",
   "profileSlug": "default"
