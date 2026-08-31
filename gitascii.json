@@ -2,189 +2,116 @@
   "username": "Andreicsantana",
   "widgets": [
     {
-      "widgetId": "header",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
       "position": {
-        "x": 0,
+        "x": 10,
         "y": 0
       },
       "size": {
-        "width": 800,
-        "height": 90
+        "width": 780,
+        "height": 417
       },
       "config": {
-        "backgroundColor": "transparent",
+        "accentColor": "#ff3366",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
+        "modeTag": "CYBER SURV",
+        "coords": "123131313, 23131",
+        "quoteText": "01000010 01010101 01001001 01001100 01000100 00100000 01010100 01001000 01000101 00100000 01010000 01001100 01000001 01001110 01000101 01010100 00100000 01000001 01001110 01000100 01010010 01000101 01001001 00100000 01010011 01000001 01001110 01010100 01000001 01001110 01000001",
         "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7",
-        "textColor": "#ba00c7"
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1787314245113_0",
-      "name": "Header Widget"
+      "instanceId": "widget_1788196516999_0"
     },
     {
-      "widgetId": "ascii-text",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
       "position": {
-        "x": 0,
-        "y": 106
+        "x": 10,
+        "y": 417
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 780,
+        "height": 420
       },
       "config": {
-        "customText": "HACK THE PLANET",
-        "fontSize": 14,
-        "backgroundColor": "transparent",
+        "accentColor": "#ff3366",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
         "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7",
-        "asciiLines": [
-          "██    ██  ▄████▄   ▄████▄  ██    ██      ████████ ██    ██ ████████      ███████▄ ██        ▄████▄  ██    ██ ████████ ████████",
-          "██    ██ ██    ██ ██    ▀▀ ██  ▄█▀          ██    ██    ██ ██            ██    ██ ██       ██    ██ ███   ██ ██          ██   ",
-          "████████ ████████ ██       █████▄           ██    ████████ ██████        ███████▀ ██       ████████ ██▀█  ██ ██████      ██   ",
-          "██    ██ ██    ██ ██    ▄▄ ██  ▀██▄         ██    ██    ██ ██            ██       ██       ██    ██ ██ ▀█ ██ ██          ██   ",
-          "██    ██ ██    ██  ▀████▀  ██    ██         ██    ██    ██ ████████      ██       ████████ ██    ██ ██   ███ ████████    ██   "
-        ]
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1787314245113_1",
-      "name": "Ascii-text Widget"
+      "instanceId": "widget_1788196516999_1"
     },
     {
-      "widgetId": "terminal-info",
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
       "position": {
-        "x": 0,
-        "y": 242
+        "x": 10,
+        "y": 845
       },
       "size": {
-        "width": 800,
-        "height": 280
+        "width": 780,
+        "height": 190
       },
       "config": {
-        "backgroundColor": "transparent",
+        "accentColor": "#ff3366",
+        "customTitle": "Surveillance Social Feeds",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
         "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7"
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1787314245113_2",
-      "name": "Terminal-info Widget"
+      "instanceId": "widget_1788196516999_2"
     },
     {
-      "widgetId": "languages",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 0,
-        "y": 538
+        "x": 10,
+        "y": 1051
       },
       "size": {
-        "width": 800,
-        "height": 140
+        "width": 780,
+        "height": 200
       },
       "config": {
-        "backgroundColor": "transparent",
+        "accentColor": "#ff3366",
+        "customTitle": "Daily Loadout",
+        "secondaryColor": "#ffff55",
+        "ledColor": "#ff3366",
         "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7"
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1787314245113_3",
-      "name": "Languages Widget"
-    },
-    {
-      "widgetId": "divider",
-      "position": {
-        "x": 0,
-        "y": 694
-      },
-      "size": {
-        "width": 800,
-        "height": 24
-      },
-      "config": {
-        "backgroundColor": "transparent",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1787314245113_4",
-      "name": "Divider Widget"
-    },
-    {
-      "widgetId": "readme-quotes",
-      "position": {
-        "x": 0,
-        "y": 734
-      },
-      "size": {
-        "width": 800,
-        "height": 140
-      },
-      "config": {
-        "backgroundColor": "transparent",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787314245113_5",
-      "name": "Readme-quotes Widget"
-    },
-    {
-      "widgetId": "footer",
-      "position": {
-        "x": 0,
-        "y": 906
-      },
-      "size": {
-        "width": 800,
-        "height": 48
-      },
-      "config": {
-        "backgroundColor": "transparent",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1787314530728,
-        "animationEasing": "ease-out",
-        "accentColor": "#ba00c7"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7,
-      "instanceId": "widget_1787314245113_6",
-      "name": "Footer Widget"
+      "instanceId": "widget_1788196516999_3"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0a0f0a",
-    "textColor": "#00ff41",
-    "accentColor": "#00ff41",
-    "borderColor": "#1a3a1a",
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "hackerspace",
-    "transparentBackground": true
+    "templateStyle": "rugbedbugg"
   },
-  "templateId": "hackerspace",
+  "templateId": "rugbedbugg",
   "profileSlug": "default"
 }
