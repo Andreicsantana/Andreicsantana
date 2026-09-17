@@ -1,7 +1,13 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Andreicsantana?v=1788206602793"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreicsantana/andreicsantana/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreicsantana/andreicsantana/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/andreicsantana/andreicsantana/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
+
+<!-- GITASCII:TELEMETRY:START - Measures badge fetches (usually GitHub Camo refreshes), not exact human views -->
+<p align="center">
+  <a href="https://gitascii.com">
+    <img alt="GitAscii badge fetch analytics" src="https://gitascii.com/api/badge/andreicsantana?slug=default" width="100%">
+  </a>
+</p>
+<!-- GITASCII:TELEMETRY:END -->
