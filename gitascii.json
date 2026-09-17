@@ -151,5 +151,9 @@
     "transparentBackground": true
   },
   "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1789679262452",
+    "updatedAt": "2026-09-17T21:07:42.452Z"
+  }
 }
