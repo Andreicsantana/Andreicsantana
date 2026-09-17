@@ -1,5 +1,5 @@
 
-<svg width="800" height="1552" viewBox="0 0 800 1552" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1760" viewBox="0 0 800 1760" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,45 +29,45 @@
     }
   </style>
 
-  
+  <rect class="" width="800" height="1760" fill="#ffffff" rx="0" />
 
   
-    <g transform="translate(10, 8)" id="widget-widget_1788198777555">
+    <g transform="translate(0, 0)" id="widget-widget_1788198002746">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1488" width="780" height="1488">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1744" width="780" height="1744">
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-bliss-widget_1788198777555" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-bliss-widget_1788198002746" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-bliss-widget_1788198777555" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-bliss-widget_1788198002746" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-bliss-widget_1788198777555" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-bliss-widget_1788198002746" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-bliss-widget_1788198777555" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-bliss-widget_1788198002746" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="776" height="1484" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-bliss-widget_1788198777555)" />
+    <rect x="2" y="2" width="776" height="1740" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-bliss-widget_1788198002746)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 772 4 Q 776 4 776 8 L 776 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-bliss-widget_1788198777555)" />
+    <path d="M 4 8 Q 4 4 8 4 L 772 4 Q 776 4 776 8 L 776 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-bliss-widget_1788198002746)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
     <path d="M 4 8 Q 4 4 8 4 L 772 4 Q 776 4 776 8 L 776 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
@@ -83,16 +83,16 @@
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
     <g transform="translate(706, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-bliss-widget_1788198777555)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-bliss-widget_1788198002746)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-bliss-widget_1788198777555)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-bliss-widget_1788198002746)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-bliss-widget_1788198777555)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-bliss-widget_1788198002746)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
@@ -106,14 +106,14 @@
       </text>
 
       <defs>
-        <clipPath id="bliss-clip-winxp-bliss-widget_1788198777555">
-          <rect x="3" y="52" width="774" height="1434" />
+        <clipPath id="bliss-clip-winxp-bliss-widget_1788198002746">
+          <rect x="3" y="52" width="774" height="1690" />
         </clipPath>
       </defs>
 
-      <g clip-path="url(#bliss-clip-winxp-bliss-widget_1788198777555)">
+      <g clip-path="url(#bliss-clip-winxp-bliss-widget_1788198002746)">
         <!-- Background placeholder while loading -->
-        <rect x="3" y="52" width="774" height="1434" fill="#3a8fd4" />
+        <rect x="3" y="52" width="774" height="1690" fill="#3a8fd4" />
 
         <!-- Real Bliss Wallpaper Image -->
         <image
@@ -121,58 +121,58 @@
           x="3"
           y="52"
           width="774"
-          height="1434"
+          height="1690"
           preserveAspectRatio="xMidYMid slice"
         />
       </g>
 
       <!-- Window border bottom -->
-      <rect x="3" y="1484" width="774" height="2" fill="#d4d0c8" />
+      <rect x="3" y="1740" width="774" height="2" fill="#d4d0c8" />
     </svg>
   
   
     </g>
   
 
-    <g transform="translate(0, 72)" id="widget-widget_1788205822704">
+    <g transform="translate(8, 72)" id="widget-widget_1788198051769">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 728 336" width="728" height="336">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 424" width="720" height="424">
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-window-widget_1788205822704" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-window-widget_1788198051769" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-window-widget_1788205822704" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-window-widget_1788198051769" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-window-widget_1788205822704" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-window-widget_1788198051769" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-window-widget_1788205822704" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-window-widget_1788198051769" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="724" height="332" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-window-widget_1788205822704)" />
+    <rect x="2" y="2" width="716" height="420" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-window-widget_1788198051769)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 720 4 Q 724 4 724 8 L 724 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-window-widget_1788205822704)" />
+    <path d="M 4 8 Q 4 4 8 4 L 712 4 Q 716 4 716 8 L 716 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-window-widget_1788198051769)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
-    <path d="M 4 8 Q 4 4 8 4 L 720 4 Q 724 4 724 8 L 724 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
+    <path d="M 4 8 Q 4 4 8 4 L 712 4 Q 716 4 716 8 L 716 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
 
     <!-- Window Icon -->
     <circle cx="16" cy="17" r="6" fill="#f59e0b" /><text x="13.5" y="20.5" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">XP</text>
@@ -183,26 +183,26 @@
     </text>
 
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
-    <g transform="translate(654, 7)">
+    <g transform="translate(646, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-window-widget_1788205822704)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-window-widget_1788198051769)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-window-widget_1788205822704)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-window-widget_1788198051769)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-window-widget_1788205822704)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-window-widget_1788198051769)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
 
       <!-- Menu Bar -->
       <g transform="translate(6, 32)">
-        <rect x="0" y="0" width="716" height="22" fill="#ece9d8" />
-        <line x1="0" y1="22" x2="716" y2="22" stroke="#d5d0be" />
+        <rect x="0" y="0" width="708" height="22" fill="#ece9d8" />
+        <line x1="0" y1="22" x2="708" y2="22" stroke="#d5d0be" />
         <text x="10" y="15" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#000000">
           <tspan font-weight="500"><u>F</u>ile</tspan>
           <tspan dx="15" font-weight="500"><u>E</u>dit</tspan>
@@ -212,7 +212,7 @@
           <tspan dx="15" font-weight="500"><u>H</u>elp</tspan>
         </text>
         <!-- Windows Flag Logo in menu bar corner -->
-        <g transform="translate(696, 2)">
+        <g transform="translate(688, 2)">
           <rect x="0" y="0" width="18" height="18" rx="2" fill="#ffffff" stroke="#c0c0c0" />
           <path d="M 3 4 Q 7 2 10 4 L 10 9 Q 6 7 3 9 Z" fill="#e11d48" />
           <path d="M 11 4 Q 14 6 16 4 L 16 9 Q 13 11 11 9 Z" fill="#2563eb" />
@@ -223,8 +223,8 @@
 
       <!-- Standard Buttons Toolbar & Address Bar -->
       <g transform="translate(6, 56)">
-        <rect x="0" y="0" width="716" height="32" fill="#ece9d8" />
-        <line x1="0" y1="32" x2="716" y2="32" stroke="#d5d0be" />
+        <rect x="0" y="0" width="708" height="32" fill="#ece9d8" />
+        <line x1="0" y1="32" x2="708" y2="32" stroke="#d5d0be" />
         <!-- Back Button with Green Circle -->
         <circle cx="16" cy="15" r="11" fill="#46a049" stroke="#2e6d30" />
         <path d="M 19 15 L 12 15 M 15 11 L 11 15 L 15 19" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -232,7 +232,7 @@
 
         <!-- Address Bar Box -->
         <text x="80" y="19" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#666666">Address</text>
-        <rect x="130" y="4" width="578" height="22" rx="2" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
+        <rect x="130" y="4" width="570" height="22" rx="2" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
         <circle cx="142" cy="15" r="5" fill="#2563eb" />
         <text x="154" y="19" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#1e293b">https://github.com/Andreicsantana</text>
       </g>
@@ -240,7 +240,7 @@
       <!-- Main Workspace: Explorer Left Task Pane + Right File View -->
       <g transform="translate(10, 96)">
         <!-- Left Task Panel (Classic Blue Gradient Panel) -->
-        <rect x="0" y="0" width="200" height="206" rx="3" fill="#6b8fc6" />
+        <rect x="0" y="0" width="200" height="294" rx="3" fill="#6b8fc6" />
 
         <!-- Task Panel Section 1: System Tasks -->
         <path d="M 4 4 Q 4 4 8 4 L 192 4 Q 196 4 196 4 L 196 24 L 4 24 Z" fill="#215dc6" />
@@ -264,7 +264,7 @@
         <g transform="translate(0, 132)">
           <path d="M 4 0 L 196 0 L 196 20 L 4 20 Z" fill="#215dc6" />
           <text x="12" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="bold" fill="#ffffff">User Coordinates</text>
-          <rect x="4" y="20" width="192" height="50" fill="#d6dff7" />
+          <rect x="4" y="20" width="192" height="138" fill="#d6dff7" />
           <g transform="translate(12, 36)">
             <text font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#001a66" font-weight="bold">Location:</text>
             <text y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#334155">Embu das Artes, São Paulo</text>
@@ -274,7 +274,7 @@
         </g>
 
         <!-- Right File/Folder Canvas Area (White Background) -->
-        <rect x="208" y="0" width="502" height="206" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
+        <rect x="208" y="0" width="494" height="294" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
 
         <!-- User Profile Card Banner inside Canvas -->
         <g transform="translate(222, 16)">
@@ -332,13 +332,13 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
       </g>
 
       <!-- Status Bar at Window Bottom -->
-      <g transform="translate(6, 310)">
-        <rect x="0" y="0" width="716" height="20" fill="#ece9d8" stroke="#d5d0be" />
+      <g transform="translate(6, 398)">
+        <rect x="0" y="0" width="708" height="20" fill="#ece9d8" stroke="#d5d0be" />
         <text x="12" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10" fill="#475569">
           3 objects (Disk free space: 98.4 GB)
         </text>
-        <line x1="548" y1="2" x2="548" y2="18" stroke="#d5d0be" />
-        <text x="558" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10" fill="#475569">
+        <line x1="540" y1="2" x2="540" y2="18" stroke="#d5d0be" />
+        <text x="550" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10" fill="#475569">
           My Computer • Local Intranet
         </text>
       </g>
@@ -348,45 +348,45 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </g>
   
 
-    <g transform="translate(0, 560)" id="widget-widget_1788205895417">
+    <g transform="translate(0, 624)" id="widget-widget_1788198222764">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 752 352" width="752" height="352">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 360" width="780" height="360">
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-paint-widget_1788205895417" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-paint-widget_1788198222764" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-paint-widget_1788205895417" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-paint-widget_1788198222764" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-paint-widget_1788205895417" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-paint-widget_1788198222764" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-paint-widget_1788205895417" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-paint-widget_1788198222764" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="748" height="348" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-paint-widget_1788205895417)" />
+    <rect x="2" y="2" width="776" height="356" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-paint-widget_1788198222764)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 744 4 Q 748 4 748 8 L 748 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-paint-widget_1788205895417)" />
+    <path d="M 4 8 Q 4 4 8 4 L 772 4 Q 776 4 776 8 L 776 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-paint-widget_1788198222764)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
-    <path d="M 4 8 Q 4 4 8 4 L 744 4 Q 748 4 748 8 L 748 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
+    <path d="M 4 8 Q 4 4 8 4 L 772 4 Q 776 4 776 8 L 776 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
 
     <!-- Window Icon -->
     <circle cx="16" cy="17" r="6" fill="#f59e0b" /><text x="13.5" y="20.5" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">XP</text>
@@ -397,26 +397,26 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </text>
 
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
-    <g transform="translate(678, 7)">
+    <g transform="translate(706, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-paint-widget_1788205895417)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-paint-widget_1788198222764)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-paint-widget_1788205895417)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-paint-widget_1788198222764)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-paint-widget_1788205895417)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-paint-widget_1788198222764)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
 
       <!-- Menu Bar -->
       <g transform="translate(6, 32)">
-        <rect x="0" y="0" width="740" height="20" fill="#ece9d8" />
-        <line x1="0" y1="20" x2="740" y2="20" stroke="#d5d0be" />
+        <rect x="0" y="0" width="768" height="20" fill="#ece9d8" />
+        <line x1="0" y1="20" x2="768" y2="20" stroke="#d5d0be" />
         <text x="10" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#000000">
           <tspan font-weight="500"><u>F</u>ile</tspan>
           <tspan dx="15" font-weight="500"><u>E</u>dit</tspan>
@@ -479,8 +479,8 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
 
         <!-- Center White Drawing Board (Canvas) -->
         <g transform="translate(68, 0)">
-          <rect x="0" y="0" width="662" height="230" fill="#808080" />
-          <rect x="2" y="2" width="658" height="226" fill="#ffffff" stroke="#000000" stroke-width="1" />
+          <rect x="0" y="0" width="690" height="230" fill="#808080" />
+          <rect x="2" y="2" width="686" height="226" fill="#ffffff" stroke="#000000" stroke-width="1" />
 
           <g transform="translate(20, 20)">
             <text font-family="'Comic Sans MS', 'Chalkboard SE', cursive" font-size="18" font-weight="bold" fill="#2563eb">
@@ -543,7 +543,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
 
         <!-- Bottom Color Palette Bar -->
         <g transform="translate(0, 238)">
-          <rect x="0" y="0" width="732" height="36" fill="#ece9d8" stroke="#7f9db9" stroke-width="1.5" />
+          <rect x="0" y="0" width="760" height="36" fill="#ece9d8" stroke="#7f9db9" stroke-width="1.5" />
           <rect x="6" y="6" width="24" height="24" fill="#ffffff" stroke="#808080" />
           <rect x="12" y="12" width="14" height="14" fill="#2563eb" stroke="#000000" />
 
@@ -558,431 +558,339 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </g>
   
 
-    <g transform="translate(272, 328)" id="widget-widget_1788205968216">
+    <g transform="translate(192, 928)" id="widget-widget_1788198248334">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 320" width="528" height="320">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 312" width="576" height="312">
+      <defs>
+        <linearGradient id="wmp-skin-winxp-wmp-widget_1788198248334" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#192841" />
+          <stop offset="50%" stop-color="#0a1324" />
+          <stop offset="100%" stop-color="#050a14" />
+        </linearGradient>
+        <linearGradient id="wmp-spectrum-winxp-wmp-widget_1788198248334" x1="0%" y1="100%" x2="0%" y2="0%">
+          <stop offset="0%" stop-color="#10b981" />
+          <stop offset="60%" stop-color="#3b82f6" />
+          <stop offset="90%" stop-color="#ec4899" />
+        </linearGradient>
+      </defs>
+
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-minesweeper-widget_1788205968216" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-wmp-widget_1788198248334" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-minesweeper-widget_1788205968216" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-wmp-widget_1788198248334" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-minesweeper-widget_1788205968216" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-wmp-widget_1788198248334" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-minesweeper-widget_1788205968216" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-wmp-widget_1788198248334" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="524" height="316" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-minesweeper-widget_1788205968216)" />
+    <rect x="2" y="2" width="572" height="308" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-wmp-widget_1788198248334)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 520 4 Q 524 4 524 8 L 524 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-minesweeper-widget_1788205968216)" />
+    <path d="M 4 8 Q 4 4 8 4 L 568 4 Q 572 4 572 8 L 572 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-wmp-widget_1788198248334)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
-    <path d="M 4 8 Q 4 4 8 4 L 520 4 Q 524 4 524 8 L 524 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
+    <path d="M 4 8 Q 4 4 8 4 L 568 4 Q 572 4 572 8 L 572 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
 
     <!-- Window Icon -->
     <circle cx="16" cy="17" r="6" fill="#f59e0b" /><text x="13.5" y="20.5" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">XP</text>
 
     <!-- Window Title -->
     <text x="32" y="20" font-family="'Trebuchet MS', 'Segoe UI', Tahoma, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" style="text-shadow: 1px 1px 1px #001a66;">
-      Minesweeper - GitHub Activity Mode
+      Windows Media Player
     </text>
 
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
-    <g transform="translate(454, 7)">
+    <g transform="translate(502, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-minesweeper-widget_1788205968216)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-wmp-widget_1788198248334)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-minesweeper-widget_1788205968216)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-wmp-widget_1788198248334)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-minesweeper-widget_1788205968216)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-wmp-widget_1788198248334)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
 
-      <!-- Game Menu -->
+      <!-- WMP Dark Metallic Body -->
       <g transform="translate(6, 32)">
-        <rect x="0" y="0" width="516" height="20" fill="#ece9d8" />
-        <line x1="0" y1="20" x2="516" y2="20" stroke="#d5d0be" />
-        <text x="10" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#000000">
-          <tspan font-weight="500"><u>G</u>ame</tspan>
-          <tspan dx="15" font-weight="500"><u>H</u>elp</tspan>
-        </text>
-      </g>
+        <rect x="0" y="0" width="564" height="274" rx="2" fill="url(#wmp-skin-winxp-wmp-widget_1788198248334)" stroke="#2a4365" stroke-width="1.5" />
 
-      <!-- Classic Minesweeper Bevel Board -->
-      <g transform="translate(16, 56)">
-        <rect x="0" y="0" width="496" height="252" fill="#c0c0c0" stroke="#808080" stroke-width="3" />
+        <!-- Top Navigation Ribbon / Now Playing -->
+        <g transform="translate(10, 8)">
+          <rect x="0" y="0" width="544" height="26" rx="3" fill="#0f172a" stroke="#1e293b" />
+          <circle cx="16" cy="13" r="8" fill="#2563eb" />
+          <polygon points="14,9 20,13 14,17" fill="#ffffff" />
+          <text x="32" y="17" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#60a5fa">
+            Now Playing: <tspan fill="#ffffff">Andreicsantana - Full Stack Symphonies (2001-2026)</tspan>
+          </text>
+          <text x="476" y="17" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" fill="#94a3b8">
+            03:42 / 04:20
+          </text>
+        </g>
 
-        <!-- Outer 3D Inset Border -->
-        <line x1="2" y1="2" x2="492" y2="2" stroke="#ffffff" stroke-width="2" />
-        <line x1="2" y1="2" x2="2" y2="248" stroke="#ffffff" stroke-width="2" />
+        <!-- Left Visualizer Screen -->
+        <g transform="translate(10, 42)">
+          <rect x="0" y="0" width="280" height="150" rx="4" fill="#020617" stroke="#334155" stroke-width="2" />
+          <line x1="10" y1="75" x2="270" y2="75" stroke="#1e293b" stroke-dasharray="2,2" />
+          <line x1="10" y1="110" x2="270" y2="110" stroke="#1e293b" stroke-dasharray="2,2" />
+          <line x1="10" y1="140" x2="270" y2="140" stroke="#2563eb" stroke-opacity="0.4" />
 
-        <!-- Header Panel with LED Counters & Smiley Face -->
-        <g transform="translate(48, 10)">
-          <rect x="0" y="0" width="400" height="36" fill="#c0c0c0" stroke="#808080" stroke-width="2" />
+          
+        <rect x="18" y="125" width="6" height="15" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="15;16;19.5;15" dur="1.2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="125;124;120.5;125" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="27" y="99.11564625524618" width="6" height="40.884353744753824" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="40.884353744753824;26.35374149790153;53.149659868179974;40.884353744753824" dur="1.4s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="99.11564625524618;113.64625850209848;86.85034013182002;99.11564625524618" dur="1.4s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="36" y="104.2910054002308" width="6" height="35.7089945997692" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="35.7089945997692;24.283597839907678;46.42169297969996;35.7089945997692" dur="1.6s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="104.2910054002308;115.71640216009231;93.57830702030003;104.2910054002308" dur="1.6s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="45" y="93.73581266702251" width="6" height="46.26418733297748" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="46.26418733297748;28.505674933190992;55;46.26418733297748" dur="1.8s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="93.73581266702251;111.49432506680901;85;93.73581266702251" dur="1.8s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="54" y="116.30023699688189" width="6" height="23.6997630031181" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="23.6997630031181;19.47990520124724;30.80969190405353;23.6997630031181" dur="2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="116.30023699688189;120.52009479875275;109.19030809594648;116.30023699688189" dur="2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="63" y="117.01566455379239" width="6" height="22.984335446207602" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="22.984335446207602;19.19373417848304;29.879636080069883;22.984335446207602" dur="1.2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="117.01566455379239;120.80626582151696;110.12036391993011;117.01566455379239" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="72" y="139.43151544827174" width="6" height="0.5684845517282469" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="0.5684845517282469;10.227393820691299;0.739029917246721;0.5684845517282469" dur="1.4s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="139.43151544827174;129.7726061793087;139.2609700827533;139.43151544827174" dur="1.4s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="81" y="128.64905225248665" width="6" height="11.350947747513349" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="11.350947747513349;14.540379099005339;14.756232071767354;11.350947747513349" dur="1.6s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="128.64905225248665;125.45962090099466;125.24376792823264;128.64905225248665" dur="1.6s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="90" y="133.62533275744644" width="6" height="6.374667242553567" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="6.374667242553567;12.549866897021428;8.287067415319637;6.374667242553567" dur="1.8s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="133.62533275744644;127.45013310297857;131.71293258468037;133.62533275744644" dur="1.8s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="99" y="107.66372199031301" width="6" height="32.33627800968699" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="32.33627800968699;22.9345112038748;42.03716141259309;32.33627800968699" dur="2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="107.66372199031301;117.06548879612521;97.9628385874069;107.66372199031301" dur="2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="108" y="106.86026802562422" width="6" height="33.13973197437578" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="33.13973197437578;23.255892789750312;43.081651566688514;33.13973197437578" dur="1.2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="106.86026802562422;116.7441072102497;96.91834843331148;106.86026802562422" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="117" y="87.23663532245999" width="6" height="52.763364677540004" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="52.763364677540004;31.105345871016002;55;52.763364677540004" dur="1.4s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="87.23663532245999;108.894654128984;85;87.23663532245999" dur="1.4s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="126" y="101.90802183823438" width="6" height="38.091978161765624" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="38.091978161765624;25.23679126470625;49.519571610295316;38.091978161765624" dur="1.6s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="101.90802183823438;114.76320873529374;90.48042838970468;101.90802183823438" dur="1.6s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="135" y="99.61803275301295" width="6" height="40.381967246987045" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="40.381967246987045;26.15278689879482;52.49655742108316;40.381967246987045" dur="1.8s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="99.61803275301295;113.84721310120518;87.50344257891683;99.61803275301295" dur="1.8s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="144" y="125.32958258503854" width="6" height="14.670417414961465" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="14.670417414961465;15.868166965984585;19.071542639449905;14.670417414961465" dur="2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="125.32958258503854;124.13183303401541;120.9284573605501;125.32958258503854" dur="2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="153" y="122.5939151994334" width="6" height="17.4060848005666" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="17.4060848005666;16.96243392022664;22.62791024073658;17.4060848005666" dur="1.2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="122.5939151994334;123.03756607977336;117.37208975926342;122.5939151994334" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="162" y="136.58355458302634" width="6" height="3.4164454169736516" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="3.4164454169736516;11.366578166789461;4.441379042065747;3.4164454169736516" dur="1.4s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="136.58355458302634;128.63342183321055;135.55862095793427;136.58355458302634" dur="1.4s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="171" y="116.3627422447407" width="6" height="23.637257755259306" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="23.637257755259306;19.45490310210372;30.728435081837098;23.637257755259306" dur="1.6s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="116.3627422447407;120.54509689789629;109.27156491816291;116.3627422447407" dur="1.6s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="180" y="115.32753905557726" width="6" height="24.672460944422735" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="24.672460944422735;19.868984377769095;32.07419922774956;24.672460944422735" dur="1.8s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="115.32753905557726;120.1310156222309;107.92580077225044;115.32753905557726" dur="1.8s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="189" y="89.60860475606798" width="6" height="50.391395243932024" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="50.391395243932024;30.156558097572812;55;50.391395243932024" dur="2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="89.60860475606798;109.84344190242719;85;89.60860475606798" dur="2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="198" y="95.18785288610259" width="6" height="44.81214711389741" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="44.81214711389741;27.924858845558965;55;44.81214711389741" dur="1.2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="95.18785288610259;112.07514115444104;85;95.18785288610259" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="207" y="85.08506337714131" width="6" height="54.91493662285869" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="54.91493662285869;31.965974649143476;55;54.91493662285869" dur="1.4s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="85.08506337714131;108.03402535085652;85;85.08506337714131" dur="1.4s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="216" y="107.93763286508592" width="6" height="32.06236713491408" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="32.06236713491408;22.824946853965635;41.68107727538831;32.06236713491408" dur="1.6s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="107.93763286508592;117.17505314603437;98.3189227246117;107.93763286508592" dur="1.6s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="225" y="108.64142834368012" width="6" height="31.35857165631988" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="31.35857165631988;22.54342866252795;40.76614315321585;31.35857165631988" dur="1.8s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="108.64142834368012;117.45657133747204;99.23385684678415;108.64142834368012" dur="1.8s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="234" y="130.75134067163006" width="6" height="9.248659328369943" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="9.248659328369943;13.699463731347977;12.023257126880926;9.248659328369943" dur="2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="130.75134067163006;126.30053626865202;127.97674287311908;130.75134067163006" dur="2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="243" y="144.51252010936315" width="6" height="-4.512520109363152" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="-4.512520109363152;8.19499195625474;-5.866276142172097;-4.512520109363152" dur="1.2s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="144.51252010936315;131.80500804374526;145.8662761421721;144.51252010936315" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="252" y="124.09665644812569" width="6" height="15.903343551874318" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="15.903343551874318;16.361337420749727;20.674346617436616;15.903343551874318" dur="1.4s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="124.09665644812569;123.63866257925028;119.32565338256339;124.09665644812569" dur="1.4s" repeatCount="indefinite" />
+        </rect>
+      
+        <rect x="261" y="122.99154624386378" width="6" height="17.008453756136223" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)">
+          <animate attributeName="height" values="17.008453756136223;16.80338150245449;22.11098988297709;17.008453756136223" dur="1.6s" repeatCount="indefinite" />
+                 <animate attributeName="y" values="122.99154624386378;123.19661849754551;117.8890101170229;122.99154624386378" dur="1.6s" repeatCount="indefinite" />
+        </rect>
+      
 
-          <!-- Mines Left LED Display (Red 7-segment style) -->
-          <rect x="10" y="5" width="54" height="26" fill="#000000" />
-          <text x="14" y="24" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ff0000" letter-spacing="2">085</text>
+          <text x="14" y="20" font-family="'Trebuchet MS', sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">
+            Ambience : Water
+          </text>
+        </g>
 
-          <!-- Classic Smiley Face Button -->
-          <g transform="translate(186, 4)">
-            <rect x="0" y="0" width="28" height="28" rx="2" fill="#c0c0c0" stroke="#808080" stroke-width="2" />
-            <line x1="1" y1="1" x2="26" y2="1" stroke="#ffffff" stroke-width="2" />
-            <line x1="1" y1="1" x2="1" y2="26" stroke="#ffffff" stroke-width="2" />
-            <circle cx="14" cy="14" r="10" fill="#facc15" stroke="#ca8a04" stroke-width="1.5" />
-            <path d="M 7 11 L 12 11 L 11 15 L 8 15 Z M 16 11 L 21 11 L 20 15 L 17 15 Z" fill="#000000" />
-            <line x1="12" y1="12" x2="16" y2="12" stroke="#000000" stroke-width="1.5" />
-            <path d="M 9 18 Q 14 22 19 18" stroke="#000000" stroke-width="1.5" fill="none" />
+        <!-- Right Playlist -->
+        <g transform="translate(302, 42)">
+          <rect x="0" y="0" width="252" height="150" rx="4" fill="#090d16" stroke="#1e293b" />
+          <text x="14" y="20" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#94a3b8">
+            PLAYLIST: TECH STACK AUDIO CHANNELS
+          </text>
+          <line x1="14" y1="28" x2="236" y2="28" stroke="#1e293b" />
+
+          
+                <g transform="translate(14, 48)">
+                  <rect x="0" y="-12" width="221" height="22" rx="2" fill="#1e3a8a" />
+                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="bold" fill="#ffffff">
+                    1. Track 01 - JavaScript Code Engine.mp3
+                  </text>
+                  <text x="166" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
+                    320 kbps
+                  </text>
+                </g>
+              
+                <g transform="translate(14, 74)">
+                  <rect x="0" y="-12" width="221" height="22" rx="2" fill="transparent" />
+                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="normal" fill="#cbd5e1">
+                    2. Track 02 - Python Code Engine.mp3
+                  </text>
+                  <text x="166" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
+                    320 kbps
+                  </text>
+                </g>
+              
+                <g transform="translate(14, 100)">
+                  <rect x="0" y="-12" width="221" height="22" rx="2" fill="transparent" />
+                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="normal" fill="#cbd5e1">
+                    3. Track 03 - HTML Code Engine.mp3
+                  </text>
+                  <text x="166" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
+                    320 kbps
+                  </text>
+                </g>
+              
+                <g transform="translate(14, 126)">
+                  <rect x="0" y="-12" width="221" height="22" rx="2" fill="transparent" />
+                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="normal" fill="#cbd5e1">
+                    4. Track 04 - CSS Code Engine.mp3
+                  </text>
+                  <text x="166" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
+                    320 kbps
+                  </text>
+                </g>
+              
+        </g>
+
+        <!-- Bottom Transport Controls Bar -->
+        <g transform="translate(10, 202)">
+          <rect x="0" y="0" width="544" height="52" rx="3" fill="#0b1322" stroke="#1e293b" />
+
+          <rect x="14" y="8" width="516" height="4" rx="2" fill="#1e293b" />
+          <rect x="14" y="8" width="335" height="4" rx="2" fill="#3b82f6" />
+          <circle cx="349" cy="10" r="5" fill="#60a5fa" stroke="#ffffff" stroke-width="1.5" />
+
+          <!-- Circular Metal Play / Pause Buttons -->
+          <g transform="translate(212, 20)">
+            <circle cx="0" cy="14" r="11" fill="#1e293b" stroke="#3b82f6" />
+            <polygon points="-4,14 2,9 2,19" fill="#93c5fd" />
+            <line x1="-4" y1="9" x2="-4" y2="19" stroke="#93c5fd" stroke-width="1.5" />
+
+            <circle cx="35" cy="14" r="15" fill="url(#wmp-spectrum-winxp-wmp-widget_1788198248334)" stroke="#ffffff" stroke-width="1.5" />
+            <rect x="30" y="8" width="3.5" height="12" fill="#ffffff" />
+            <rect x="36.5" y="8" width="3.5" height="12" fill="#ffffff" />
+
+            <circle cx="70" cy="14" r="11" fill="#1e293b" stroke="#3b82f6" />
+            <polygon points="4,14 -2,9 -2,19" fill="#93c5fd" />
+            <line x1="4" y1="9" x2="4" y2="19" stroke="#93c5fd" stroke-width="1.5" />
+
+            <circle cx="100" cy="14" r="11" fill="#1e293b" stroke="#3b82f6" />
+            <rect x="96" y="10" width="8" height="8" fill="#93c5fd" />
           </g>
 
-          <!-- Commits Timer LED Display -->
-          <rect x="336" y="5" width="54" height="26" fill="#000000" />
-          <text x="340" y="24" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ff0000" letter-spacing="2">640</text>
+          <g transform="translate(426, 30)">
+            <path d="M 0 5 L 4 5 L 8 1 L 8 9 L 4 5 Z" fill="#94a3b8" />
+            <rect x="16" y="4" width="70" height="3" rx="1.5" fill="#334155" />
+            <rect x="16" y="4" width="55" height="3" rx="1.5" fill="#10b981" />
+            <circle cx="71" cy="5.5" r="4" fill="#ffffff" stroke="#10b981" stroke-width="1.5" />
+          </g>
         </g>
-
-        <!-- Grid Container -->
-        <g>
-          
-          <rect x="66" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="88" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="110" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="132" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
-        
-          <rect x="154" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="176" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="198" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="205" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="220" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="227" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="242" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="264" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="271" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
-        
-          <rect x="286" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="308" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="315" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
-        
-          <rect x="330" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="330" y1="110" x2="350" y2="110" stroke="#ffffff" stroke-width="2" />
-          <line x1="330" y1="110" x2="330" y2="130" stroke="#ffffff" stroke-width="2" />
-          <polygon points="336,114 344,118 336,122" fill="#ff0000" />
-          <line x1="336" y1="114" x2="336" y2="127" stroke="#000000" stroke-width="1.5" />
-          <rect x="334" y="125" width="8" height="2" fill="#000000" />
-        
-          <rect x="352" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="359" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="374" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="381" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="396" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="396" y1="110" x2="416" y2="110" stroke="#ffffff" stroke-width="2" />
-          <line x1="396" y1="110" x2="396" y2="130" stroke="#ffffff" stroke-width="2" />
-          <polygon points="402,114 410,118 402,122" fill="#ff0000" />
-          <line x1="402" y1="114" x2="402" y2="127" stroke="#000000" stroke-width="1.5" />
-          <rect x="400" y="125" width="8" height="2" fill="#000000" />
-        
-          <rect x="418" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="440" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="66" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="66" y1="132" x2="86" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="66" y1="132" x2="66" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="72,136 80,140 72,144" fill="#ff0000" />
-          <line x1="72" y1="136" x2="72" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="70" y="147" width="8" height="2" fill="#000000" />
-        
-          <rect x="88" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="110" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="117" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="132" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="154" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="176" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="198" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="220" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="227" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="242" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="264" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="286" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="293" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="308" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="330" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="337" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
-        
-          <rect x="352" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="359" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="374" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="374" y1="132" x2="394" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="374" y1="132" x2="374" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="380,136 388,140 380,144" fill="#ff0000" />
-          <line x1="380" y1="136" x2="380" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="378" y="147" width="8" height="2" fill="#000000" />
-        
-          <rect x="396" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="403" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="418" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="440" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="440" y1="132" x2="460" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="440" y1="132" x2="440" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="446,136 454,140 446,144" fill="#ff0000" />
-          <line x1="446" y1="136" x2="446" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="444" y="147" width="8" height="2" fill="#000000" />
-        
-          <rect x="66" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="73" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="88" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="95" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="110" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="117" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="132" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="154" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="176" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="183" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="198" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="205" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
-        
-          <rect x="220" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="227" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="242" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="264" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="286" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="293" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="308" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="315" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
-        
-          <rect x="330" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="352" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="352" y1="154" x2="372" y2="154" stroke="#ffffff" stroke-width="2" />
-          <line x1="352" y1="154" x2="352" y2="174" stroke="#ffffff" stroke-width="2" />
-          <polygon points="358,158 366,162 358,166" fill="#ff0000" />
-          <line x1="358" y1="158" x2="358" y2="171" stroke="#000000" stroke-width="1.5" />
-          <rect x="356" y="169" width="8" height="2" fill="#000000" />
-        
-          <rect x="374" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="396" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="418" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="440" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="66" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="73" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="88" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="110" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="117" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="132" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="154" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="176" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="183" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="198" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="205" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="220" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="242" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="249" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
-        
-          <rect x="264" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="286" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="293" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="308" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="330" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="337" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="352" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="374" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="396" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="418" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="440" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="66" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="88" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="95" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="110" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="132" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="154" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="154" y1="198" x2="174" y2="198" stroke="#ffffff" stroke-width="2" />
-          <line x1="154" y1="198" x2="154" y2="218" stroke="#ffffff" stroke-width="2" />
-          <polygon points="160,202 168,206 160,210" fill="#ff0000" />
-          <line x1="160" y1="202" x2="160" y2="215" stroke="#000000" stroke-width="1.5" />
-          <rect x="158" y="213" width="8" height="2" fill="#000000" />
-        
-          <rect x="176" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="183" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="198" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="220" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="227" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="242" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="264" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="271" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="286" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="308" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="315" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="330" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="337" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="352" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="359" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="374" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="381" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="396" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="403" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="418" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="425" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="440" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="66" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="88" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="95" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
-        
-          <rect x="110" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="132" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="139" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="154" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="161" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="176" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="198" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="220" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="242" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="264" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="286" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="286" y1="220" x2="306" y2="220" stroke="#ffffff" stroke-width="2" />
-          <line x1="286" y1="220" x2="286" y2="240" stroke="#ffffff" stroke-width="2" />
-          <polygon points="292,224 300,228 292,232" fill="#ff0000" />
-          <line x1="292" y1="224" x2="292" y2="237" stroke="#000000" stroke-width="1.5" />
-          <rect x="290" y="235" width="8" height="2" fill="#000000" />
-        
-          <rect x="308" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="315" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="330" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="337" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="352" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-          <rect x="374" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="381" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="396" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="403" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
-        
-          <rect x="418" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="425" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
-        
-          <rect x="440" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-        
-        </g>
-
-        <!-- Bottom Game Stats Caption -->
-        <text x="248" y="238" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">
-          🏆 Victory! 640 Annual Commits Swept without detonating bugs.
-        </text>
       </g>
     </svg>
   
@@ -990,7 +898,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </g>
   
 
-    <g transform="translate(280, 1048)" id="widget-widget_1788206137909">
+    <g transform="translate(0, 1160)" id="widget-widget_1788198288725">
 
       
       
@@ -1000,32 +908,32 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 210" width="520" height="210">
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-error-widget_1788206137909" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-error-widget_1788198288725" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-error-widget_1788206137909" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-error-widget_1788198288725" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-error-widget_1788206137909" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-error-widget_1788198288725" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-error-widget_1788206137909" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-error-widget_1788198288725" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="516" height="206" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-error-widget_1788206137909)" />
+    <rect x="2" y="2" width="516" height="206" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-error-widget_1788198288725)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 512 4 Q 516 4 516 8 L 516 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-error-widget_1788206137909)" />
+    <path d="M 4 8 Q 4 4 8 4 L 512 4 Q 516 4 516 8 L 516 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-error-widget_1788198288725)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
     <path d="M 4 8 Q 4 4 8 4 L 512 4 Q 516 4 516 8 L 516 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
@@ -1041,16 +949,16 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
     <g transform="translate(446, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-error-widget_1788206137909)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-error-widget_1788198288725)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-error-widget_1788206137909)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-error-widget_1788198288725)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-error-widget_1788206137909)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-error-widget_1788198288725)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
@@ -1084,339 +992,431 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </g>
   
 
-    <g transform="translate(72, 792)" id="widget-widget_1788206152509">
+    <g transform="translate(216, 328)" id="widget-widget_1788198334107">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 632 296" width="632" height="296">
-      <defs>
-        <linearGradient id="wmp-skin-winxp-wmp-widget_1788206152509" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#192841" />
-          <stop offset="50%" stop-color="#0a1324" />
-          <stop offset="100%" stop-color="#050a14" />
-        </linearGradient>
-        <linearGradient id="wmp-spectrum-winxp-wmp-widget_1788206152509" x1="0%" y1="100%" x2="0%" y2="0%">
-          <stop offset="0%" stop-color="#10b981" />
-          <stop offset="60%" stop-color="#3b82f6" />
-          <stop offset="90%" stop-color="#ec4899" />
-        </linearGradient>
-      </defs>
-
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 564 312" width="564" height="312">
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-wmp-widget_1788206152509" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-minesweeper-widget_1788198334107" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-wmp-widget_1788206152509" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-minesweeper-widget_1788198334107" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-wmp-widget_1788206152509" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-minesweeper-widget_1788198334107" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-wmp-widget_1788206152509" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-minesweeper-widget_1788198334107" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="628" height="292" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-wmp-widget_1788206152509)" />
+    <rect x="2" y="2" width="560" height="308" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-minesweeper-widget_1788198334107)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 624 4 Q 628 4 628 8 L 628 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-wmp-widget_1788206152509)" />
+    <path d="M 4 8 Q 4 4 8 4 L 556 4 Q 560 4 560 8 L 560 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-minesweeper-widget_1788198334107)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
-    <path d="M 4 8 Q 4 4 8 4 L 624 4 Q 628 4 628 8 L 628 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
+    <path d="M 4 8 Q 4 4 8 4 L 556 4 Q 560 4 560 8 L 560 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
 
     <!-- Window Icon -->
     <circle cx="16" cy="17" r="6" fill="#f59e0b" /><text x="13.5" y="20.5" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">XP</text>
 
     <!-- Window Title -->
     <text x="32" y="20" font-family="'Trebuchet MS', 'Segoe UI', Tahoma, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" style="text-shadow: 1px 1px 1px #001a66;">
-      Windows Media Player
+      Minesweeper - GitHub Activity Mode
     </text>
 
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
-    <g transform="translate(558, 7)">
+    <g transform="translate(490, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-wmp-widget_1788206152509)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-minesweeper-widget_1788198334107)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-wmp-widget_1788206152509)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-minesweeper-widget_1788198334107)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-wmp-widget_1788206152509)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-minesweeper-widget_1788198334107)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
 
-      <!-- WMP Dark Metallic Body -->
+      <!-- Game Menu -->
       <g transform="translate(6, 32)">
-        <rect x="0" y="0" width="620" height="258" rx="2" fill="url(#wmp-skin-winxp-wmp-widget_1788206152509)" stroke="#2a4365" stroke-width="1.5" />
+        <rect x="0" y="0" width="552" height="20" fill="#ece9d8" />
+        <line x1="0" y1="20" x2="552" y2="20" stroke="#d5d0be" />
+        <text x="10" y="14" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#000000">
+          <tspan font-weight="500"><u>G</u>ame</tspan>
+          <tspan dx="15" font-weight="500"><u>H</u>elp</tspan>
+        </text>
+      </g>
 
-        <!-- Top Navigation Ribbon / Now Playing -->
-        <g transform="translate(10, 8)">
-          <rect x="0" y="0" width="600" height="26" rx="3" fill="#0f172a" stroke="#1e293b" />
-          <circle cx="16" cy="13" r="8" fill="#2563eb" />
-          <polygon points="14,9 20,13 14,17" fill="#ffffff" />
-          <text x="32" y="17" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#60a5fa">
-            Now Playing: <tspan fill="#ffffff">Andreicsantana - Full Stack Symphonies (2001-2026)</tspan>
-          </text>
-          <text x="532" y="17" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" fill="#94a3b8">
-            03:42 / 04:20
-          </text>
-        </g>
+      <!-- Classic Minesweeper Bevel Board -->
+      <g transform="translate(16, 56)">
+        <rect x="0" y="0" width="532" height="244" fill="#c0c0c0" stroke="#808080" stroke-width="3" />
 
-        <!-- Left Visualizer Screen -->
-        <g transform="translate(10, 42)">
-          <rect x="0" y="0" width="280" height="150" rx="4" fill="#020617" stroke="#334155" stroke-width="2" />
-          <line x1="10" y1="75" x2="270" y2="75" stroke="#1e293b" stroke-dasharray="2,2" />
-          <line x1="10" y1="110" x2="270" y2="110" stroke="#1e293b" stroke-dasharray="2,2" />
-          <line x1="10" y1="140" x2="270" y2="140" stroke="#2563eb" stroke-opacity="0.4" />
+        <!-- Outer 3D Inset Border -->
+        <line x1="2" y1="2" x2="528" y2="2" stroke="#ffffff" stroke-width="2" />
+        <line x1="2" y1="2" x2="2" y2="240" stroke="#ffffff" stroke-width="2" />
 
-          
-        <rect x="18" y="125" width="6" height="15" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="15;16;19.5;15" dur="1.2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="125;124;120.5;125" dur="1.2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="27" y="99.11564625524618" width="6" height="40.884353744753824" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="40.884353744753824;26.35374149790153;53.149659868179974;40.884353744753824" dur="1.4s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="99.11564625524618;113.64625850209848;86.85034013182002;99.11564625524618" dur="1.4s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="36" y="104.2910054002308" width="6" height="35.7089945997692" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="35.7089945997692;24.283597839907678;46.42169297969996;35.7089945997692" dur="1.6s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="104.2910054002308;115.71640216009231;93.57830702030003;104.2910054002308" dur="1.6s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="45" y="93.73581266702251" width="6" height="46.26418733297748" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="46.26418733297748;28.505674933190992;55;46.26418733297748" dur="1.8s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="93.73581266702251;111.49432506680901;85;93.73581266702251" dur="1.8s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="54" y="116.30023699688189" width="6" height="23.6997630031181" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="23.6997630031181;19.47990520124724;30.80969190405353;23.6997630031181" dur="2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="116.30023699688189;120.52009479875275;109.19030809594648;116.30023699688189" dur="2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="63" y="117.01566455379239" width="6" height="22.984335446207602" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="22.984335446207602;19.19373417848304;29.879636080069883;22.984335446207602" dur="1.2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="117.01566455379239;120.80626582151696;110.12036391993011;117.01566455379239" dur="1.2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="72" y="139.43151544827174" width="6" height="0.5684845517282469" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="0.5684845517282469;10.227393820691299;0.739029917246721;0.5684845517282469" dur="1.4s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="139.43151544827174;129.7726061793087;139.2609700827533;139.43151544827174" dur="1.4s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="81" y="128.64905225248665" width="6" height="11.350947747513349" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="11.350947747513349;14.540379099005339;14.756232071767354;11.350947747513349" dur="1.6s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="128.64905225248665;125.45962090099466;125.24376792823264;128.64905225248665" dur="1.6s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="90" y="133.62533275744644" width="6" height="6.374667242553567" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="6.374667242553567;12.549866897021428;8.287067415319637;6.374667242553567" dur="1.8s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="133.62533275744644;127.45013310297857;131.71293258468037;133.62533275744644" dur="1.8s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="99" y="107.66372199031301" width="6" height="32.33627800968699" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="32.33627800968699;22.9345112038748;42.03716141259309;32.33627800968699" dur="2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="107.66372199031301;117.06548879612521;97.9628385874069;107.66372199031301" dur="2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="108" y="106.86026802562422" width="6" height="33.13973197437578" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="33.13973197437578;23.255892789750312;43.081651566688514;33.13973197437578" dur="1.2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="106.86026802562422;116.7441072102497;96.91834843331148;106.86026802562422" dur="1.2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="117" y="87.23663532245999" width="6" height="52.763364677540004" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="52.763364677540004;31.105345871016002;55;52.763364677540004" dur="1.4s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="87.23663532245999;108.894654128984;85;87.23663532245999" dur="1.4s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="126" y="101.90802183823438" width="6" height="38.091978161765624" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="38.091978161765624;25.23679126470625;49.519571610295316;38.091978161765624" dur="1.6s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="101.90802183823438;114.76320873529374;90.48042838970468;101.90802183823438" dur="1.6s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="135" y="99.61803275301295" width="6" height="40.381967246987045" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="40.381967246987045;26.15278689879482;52.49655742108316;40.381967246987045" dur="1.8s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="99.61803275301295;113.84721310120518;87.50344257891683;99.61803275301295" dur="1.8s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="144" y="125.32958258503854" width="6" height="14.670417414961465" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="14.670417414961465;15.868166965984585;19.071542639449905;14.670417414961465" dur="2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="125.32958258503854;124.13183303401541;120.9284573605501;125.32958258503854" dur="2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="153" y="122.5939151994334" width="6" height="17.4060848005666" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="17.4060848005666;16.96243392022664;22.62791024073658;17.4060848005666" dur="1.2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="122.5939151994334;123.03756607977336;117.37208975926342;122.5939151994334" dur="1.2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="162" y="136.58355458302634" width="6" height="3.4164454169736516" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="3.4164454169736516;11.366578166789461;4.441379042065747;3.4164454169736516" dur="1.4s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="136.58355458302634;128.63342183321055;135.55862095793427;136.58355458302634" dur="1.4s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="171" y="116.3627422447407" width="6" height="23.637257755259306" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="23.637257755259306;19.45490310210372;30.728435081837098;23.637257755259306" dur="1.6s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="116.3627422447407;120.54509689789629;109.27156491816291;116.3627422447407" dur="1.6s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="180" y="115.32753905557726" width="6" height="24.672460944422735" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="24.672460944422735;19.868984377769095;32.07419922774956;24.672460944422735" dur="1.8s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="115.32753905557726;120.1310156222309;107.92580077225044;115.32753905557726" dur="1.8s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="189" y="89.60860475606798" width="6" height="50.391395243932024" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="50.391395243932024;30.156558097572812;55;50.391395243932024" dur="2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="89.60860475606798;109.84344190242719;85;89.60860475606798" dur="2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="198" y="95.18785288610259" width="6" height="44.81214711389741" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="44.81214711389741;27.924858845558965;55;44.81214711389741" dur="1.2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="95.18785288610259;112.07514115444104;85;95.18785288610259" dur="1.2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="207" y="85.08506337714131" width="6" height="54.91493662285869" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="54.91493662285869;31.965974649143476;55;54.91493662285869" dur="1.4s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="85.08506337714131;108.03402535085652;85;85.08506337714131" dur="1.4s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="216" y="107.93763286508592" width="6" height="32.06236713491408" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="32.06236713491408;22.824946853965635;41.68107727538831;32.06236713491408" dur="1.6s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="107.93763286508592;117.17505314603437;98.3189227246117;107.93763286508592" dur="1.6s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="225" y="108.64142834368012" width="6" height="31.35857165631988" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="31.35857165631988;22.54342866252795;40.76614315321585;31.35857165631988" dur="1.8s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="108.64142834368012;117.45657133747204;99.23385684678415;108.64142834368012" dur="1.8s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="234" y="130.75134067163006" width="6" height="9.248659328369943" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="9.248659328369943;13.699463731347977;12.023257126880926;9.248659328369943" dur="2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="130.75134067163006;126.30053626865202;127.97674287311908;130.75134067163006" dur="2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="243" y="144.51252010936315" width="6" height="-4.512520109363152" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="-4.512520109363152;8.19499195625474;-5.866276142172097;-4.512520109363152" dur="1.2s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="144.51252010936315;131.80500804374526;145.8662761421721;144.51252010936315" dur="1.2s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="252" y="124.09665644812569" width="6" height="15.903343551874318" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="15.903343551874318;16.361337420749727;20.674346617436616;15.903343551874318" dur="1.4s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="124.09665644812569;123.63866257925028;119.32565338256339;124.09665644812569" dur="1.4s" repeatCount="indefinite" />
-        </rect>
-      
-        <rect x="261" y="122.99154624386378" width="6" height="17.008453756136223" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)">
-          <animate attributeName="height" values="17.008453756136223;16.80338150245449;22.11098988297709;17.008453756136223" dur="1.6s" repeatCount="indefinite" />
-                 <animate attributeName="y" values="122.99154624386378;123.19661849754551;117.8890101170229;122.99154624386378" dur="1.6s" repeatCount="indefinite" />
-        </rect>
-      
+        <!-- Header Panel with LED Counters & Smiley Face -->
+        <g transform="translate(66, 10)">
+          <rect x="0" y="0" width="400" height="36" fill="#c0c0c0" stroke="#808080" stroke-width="2" />
 
-          <text x="14" y="20" font-family="'Trebuchet MS', sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">
-            Ambience : Water
-          </text>
-        </g>
+          <!-- Mines Left LED Display (Red 7-segment style) -->
+          <rect x="10" y="5" width="54" height="26" fill="#000000" />
+          <text x="14" y="24" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ff0000" letter-spacing="2">085</text>
 
-        <!-- Right Playlist -->
-        <g transform="translate(302, 42)">
-          <rect x="0" y="0" width="308" height="150" rx="4" fill="#090d16" stroke="#1e293b" />
-          <text x="14" y="20" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#94a3b8">
-            PLAYLIST: TECH STACK AUDIO CHANNELS
-          </text>
-          <line x1="14" y1="28" x2="292" y2="28" stroke="#1e293b" />
-
-          
-                <g transform="translate(14, 48)">
-                  <rect x="0" y="-12" width="277" height="22" rx="2" fill="#1e3a8a" />
-                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="bold" fill="#ffffff">
-                    1. Track 01 - JavaScript Code Engine.mp3
-                  </text>
-                  <text x="222" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
-                    320 kbps
-                  </text>
-                </g>
-              
-                <g transform="translate(14, 74)">
-                  <rect x="0" y="-12" width="277" height="22" rx="2" fill="transparent" />
-                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="normal" fill="#cbd5e1">
-                    2. Track 02 - Python Code Engine.mp3
-                  </text>
-                  <text x="222" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
-                    320 kbps
-                  </text>
-                </g>
-              
-                <g transform="translate(14, 100)">
-                  <rect x="0" y="-12" width="277" height="22" rx="2" fill="transparent" />
-                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="normal" fill="#cbd5e1">
-                    3. Track 03 - HTML Code Engine.mp3
-                  </text>
-                  <text x="222" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
-                    320 kbps
-                  </text>
-                </g>
-              
-                <g transform="translate(14, 126)">
-                  <rect x="0" y="-12" width="277" height="22" rx="2" fill="transparent" />
-                  <text x="8" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="10.5" font-weight="normal" fill="#cbd5e1">
-                    4. Track 04 - CSS Code Engine.mp3
-                  </text>
-                  <text x="222" y="3" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">
-                    320 kbps
-                  </text>
-                </g>
-              
-        </g>
-
-        <!-- Bottom Transport Controls Bar -->
-        <g transform="translate(10, 202)">
-          <rect x="0" y="0" width="600" height="52" rx="3" fill="#0b1322" stroke="#1e293b" />
-
-          <rect x="14" y="8" width="572" height="4" rx="2" fill="#1e293b" />
-          <rect x="14" y="8" width="372" height="4" rx="2" fill="#3b82f6" />
-          <circle cx="386" cy="10" r="5" fill="#60a5fa" stroke="#ffffff" stroke-width="1.5" />
-
-          <!-- Circular Metal Play / Pause Buttons -->
-          <g transform="translate(240, 20)">
-            <circle cx="0" cy="14" r="11" fill="#1e293b" stroke="#3b82f6" />
-            <polygon points="-4,14 2,9 2,19" fill="#93c5fd" />
-            <line x1="-4" y1="9" x2="-4" y2="19" stroke="#93c5fd" stroke-width="1.5" />
-
-            <circle cx="35" cy="14" r="15" fill="url(#wmp-spectrum-winxp-wmp-widget_1788206152509)" stroke="#ffffff" stroke-width="1.5" />
-            <rect x="30" y="8" width="3.5" height="12" fill="#ffffff" />
-            <rect x="36.5" y="8" width="3.5" height="12" fill="#ffffff" />
-
-            <circle cx="70" cy="14" r="11" fill="#1e293b" stroke="#3b82f6" />
-            <polygon points="4,14 -2,9 -2,19" fill="#93c5fd" />
-            <line x1="4" y1="9" x2="4" y2="19" stroke="#93c5fd" stroke-width="1.5" />
-
-            <circle cx="100" cy="14" r="11" fill="#1e293b" stroke="#3b82f6" />
-            <rect x="96" y="10" width="8" height="8" fill="#93c5fd" />
+          <!-- Classic Smiley Face Button -->
+          <g transform="translate(186, 4)">
+            <rect x="0" y="0" width="28" height="28" rx="2" fill="#c0c0c0" stroke="#808080" stroke-width="2" />
+            <line x1="1" y1="1" x2="26" y2="1" stroke="#ffffff" stroke-width="2" />
+            <line x1="1" y1="1" x2="1" y2="26" stroke="#ffffff" stroke-width="2" />
+            <circle cx="14" cy="14" r="10" fill="#facc15" stroke="#ca8a04" stroke-width="1.5" />
+            <path d="M 7 11 L 12 11 L 11 15 L 8 15 Z M 16 11 L 21 11 L 20 15 L 17 15 Z" fill="#000000" />
+            <line x1="12" y1="12" x2="16" y2="12" stroke="#000000" stroke-width="1.5" />
+            <path d="M 9 18 Q 14 22 19 18" stroke="#000000" stroke-width="1.5" fill="none" />
           </g>
 
-          <g transform="translate(482, 30)">
-            <path d="M 0 5 L 4 5 L 8 1 L 8 9 L 4 5 Z" fill="#94a3b8" />
-            <rect x="16" y="4" width="70" height="3" rx="1.5" fill="#334155" />
-            <rect x="16" y="4" width="55" height="3" rx="1.5" fill="#10b981" />
-            <circle cx="71" cy="5.5" r="4" fill="#ffffff" stroke="#10b981" stroke-width="1.5" />
-          </g>
+          <!-- Commits Timer LED Display -->
+          <rect x="336" y="5" width="54" height="26" fill="#000000" />
+          <text x="340" y="24" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ff0000" letter-spacing="2">640</text>
         </g>
+
+        <!-- Grid Container -->
+        <g>
+          
+          <rect x="84" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="106" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="128" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="150" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="157" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+        
+          <rect x="172" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="194" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="216" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="223" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="238" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="245" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="260" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="267" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="282" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="289" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+        
+          <rect x="304" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="326" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="333" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+        
+          <rect x="348" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="348" y1="110" x2="368" y2="110" stroke="#ffffff" stroke-width="2" />
+          <line x1="348" y1="110" x2="348" y2="130" stroke="#ffffff" stroke-width="2" />
+          <polygon points="354,114 362,118 354,122" fill="#ff0000" />
+          <line x1="354" y1="114" x2="354" y2="127" stroke="#000000" stroke-width="1.5" />
+          <rect x="352" y="125" width="8" height="2" fill="#000000" />
+        
+          <rect x="370" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="377" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="392" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="399" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="414" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="414" y1="110" x2="434" y2="110" stroke="#ffffff" stroke-width="2" />
+          <line x1="414" y1="110" x2="414" y2="130" stroke="#ffffff" stroke-width="2" />
+          <polygon points="420,114 428,118 420,122" fill="#ff0000" />
+          <line x1="420" y1="114" x2="420" y2="127" stroke="#000000" stroke-width="1.5" />
+          <rect x="418" y="125" width="8" height="2" fill="#000000" />
+        
+          <rect x="436" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="458" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="84" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="84" y1="132" x2="104" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="84" y1="132" x2="84" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="90,136 98,140 90,144" fill="#ff0000" />
+          <line x1="90" y1="136" x2="90" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="88" y="147" width="8" height="2" fill="#000000" />
+        
+          <rect x="106" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="128" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="135" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="150" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="172" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="194" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="216" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="238" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="245" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="260" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="267" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="282" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="304" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="311" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="326" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="348" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="355" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+        
+          <rect x="370" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="377" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="392" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="392" y1="132" x2="412" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="392" y1="132" x2="392" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="398,136 406,140 398,144" fill="#ff0000" />
+          <line x1="398" y1="136" x2="398" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="396" y="147" width="8" height="2" fill="#000000" />
+        
+          <rect x="414" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="421" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="436" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="458" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="458" y1="132" x2="478" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="458" y1="132" x2="458" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="464,136 472,140 464,144" fill="#ff0000" />
+          <line x1="464" y1="136" x2="464" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="462" y="147" width="8" height="2" fill="#000000" />
+        
+          <rect x="84" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="91" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="106" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="113" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="128" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="135" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="150" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="157" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="172" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="194" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="201" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="216" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="223" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+        
+          <rect x="238" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="245" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="260" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="267" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="282" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="304" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="311" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="326" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="333" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+        
+          <rect x="348" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="370" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="370" y1="154" x2="390" y2="154" stroke="#ffffff" stroke-width="2" />
+          <line x1="370" y1="154" x2="370" y2="174" stroke="#ffffff" stroke-width="2" />
+          <polygon points="376,158 384,162 376,166" fill="#ff0000" />
+          <line x1="376" y1="158" x2="376" y2="171" stroke="#000000" stroke-width="1.5" />
+          <rect x="374" y="169" width="8" height="2" fill="#000000" />
+        
+          <rect x="392" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="414" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="436" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="458" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="465" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="84" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="91" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="106" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="128" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="135" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="150" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="172" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="194" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="201" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="216" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="223" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="238" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="260" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="267" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
+        
+          <rect x="282" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="304" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="311" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="326" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="348" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="355" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="370" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="392" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="414" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="436" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="458" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="465" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="84" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="106" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="113" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="128" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="150" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="157" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="172" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="172" y1="198" x2="192" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="172" y1="198" x2="172" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="178,202 186,206 178,210" fill="#ff0000" />
+          <line x1="178" y1="202" x2="178" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="176" y="213" width="8" height="2" fill="#000000" />
+        
+          <rect x="194" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="201" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="216" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="238" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="245" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="260" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="282" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="289" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="304" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="326" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="333" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="348" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="355" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="370" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="377" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="392" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="399" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="414" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="421" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="436" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="443" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="458" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="84" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="106" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="113" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
+        
+          <rect x="128" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="150" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="157" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="172" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="179" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="194" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="216" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="238" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="260" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="282" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="304" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="304" y1="220" x2="324" y2="220" stroke="#ffffff" stroke-width="2" />
+          <line x1="304" y1="220" x2="304" y2="240" stroke="#ffffff" stroke-width="2" />
+          <polygon points="310,224 318,228 310,232" fill="#ff0000" />
+          <line x1="310" y1="224" x2="310" y2="237" stroke="#000000" stroke-width="1.5" />
+          <rect x="308" y="235" width="8" height="2" fill="#000000" />
+        
+          <rect x="326" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="333" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="348" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="355" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="370" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+          <rect x="392" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="399" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="414" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="421" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+        
+          <rect x="436" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="443" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+        
+          <rect x="458" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+        
+        </g>
+
+        <!-- Bottom Game Stats Caption -->
+        <text x="266" y="230" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">
+          🏆 Victory! 640 Annual Commits Swept without detonating bugs.
+        </text>
       </g>
     </svg>
   
@@ -1424,42 +1424,42 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </g>
   
 
-    <g transform="translate(0, 1120)" id="widget-widget_1788206259981">
+    <g transform="translate(38, 1312)" id="widget-widget_1788198424268">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 704 360" width="704" height="360">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 704 376" width="704" height="376">
       
     <defs>
-      <linearGradient id="winxp-title-grad-winxp-sysprop-widget_1788206259981" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="winxp-title-grad-winxp-sysprop-widget_1788198424268" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#0058ee" />
         <stop offset="25%" stop-color="#2989f5" />
         <stop offset="85%" stop-color="#0058ee" />
         <stop offset="100%" stop-color="#2989f5" />
       </linearGradient>
-      <linearGradient id="winxp-btn-grad-winxp-sysprop-widget_1788206259981" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-btn-grad-winxp-sysprop-widget_1788198424268" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#3c8cf5" />
         <stop offset="40%" stop-color="#2464df" />
         <stop offset="100%" stop-color="#1446b8" />
       </linearGradient>
-      <linearGradient id="winxp-close-grad-winxp-sysprop-widget_1788206259981" x1="0%" y1="0%" x2="0%" y2="100%">
+      <linearGradient id="winxp-close-grad-winxp-sysprop-widget_1788198424268" x1="0%" y1="0%" x2="0%" y2="100%">
         <stop offset="0%" stop-color="#e96c56" />
         <stop offset="40%" stop-color="#d63f24" />
         <stop offset="100%" stop-color="#b8240c" />
       </linearGradient>
-      <filter id="winxp-shadow-winxp-sysprop-widget_1788206259981" x="-4%" y="-4%" width="108%" height="112%">
+      <filter id="winxp-shadow-winxp-sysprop-widget_1788198424268" x="-4%" y="-4%" width="108%" height="112%">
         <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
       </filter>
     </defs>
 
     <!-- Outer Window Frame -->
-    <rect x="2" y="2" width="700" height="356" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-sysprop-widget_1788206259981)" />
+    <rect x="2" y="2" width="700" height="372" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-sysprop-widget_1788198424268)" />
 
     <!-- Title Bar Header -->
-    <path d="M 4 8 Q 4 4 8 4 L 696 4 Q 700 4 700 8 L 700 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-sysprop-widget_1788206259981)" />
+    <path d="M 4 8 Q 4 4 8 4 L 696 4 Q 700 4 700 8 L 700 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-sysprop-widget_1788198424268)" />
 
     <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
     <path d="M 4 8 Q 4 4 8 4 L 696 4 Q 700 4 700 8 L 700 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
@@ -1475,16 +1475,16 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
     <g transform="translate(630, 7)">
       <!-- Minimize Button -->
-      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-sysprop-widget_1788206259981)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-sysprop-widget_1788198424268)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
 
       <!-- Maximize Button -->
-      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-sysprop-widget_1788206259981)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-sysprop-widget_1788198424268)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
       <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
       <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
 
       <!-- Close Button (Red) -->
-      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-sysprop-widget_1788206259981)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-sysprop-widget_1788198424268)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
       <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
     </g>
   
@@ -1512,7 +1512,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
 
         <!-- Main Tab Pane Body (White with 3D Border) -->
         <g transform="translate(0, 16)">
-          <rect x="0" y="0" width="676" height="264" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
+          <rect x="0" y="0" width="676" height="280" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
 
           <!-- Monitor and System Language Specs Header -->
           <g transform="translate(18, 14)">
@@ -1628,7 +1628,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
         </g>
       </g>
 
-      <g transform="translate(454, 324)">
+      <g transform="translate(454, 340)">
         <rect x="0" y="0" width="70" height="22" rx="3" fill="#ece9d8" stroke="#0058ee" stroke-width="1.5" />
         <text x="26" y="15" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#000000">OK</text>
 
@@ -1644,7 +1644,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
     </g>
   
 
-    <g transform="translate(10, 1488)" id="widget-widget_1788206311805">
+    <g transform="translate(0, 1696)" id="widget-widget_1788198468921">
 
       
       
@@ -1653,7 +1653,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
       
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 48" width="780" height="48">
       <defs>
-        <linearGradient id="winxp-tb-grad-winxp-taskbar-widget_1788206311805" x1="0%" y1="0%" x2="0%" y2="100%">
+        <linearGradient id="winxp-tb-grad-winxp-taskbar-widget_1788198468921" x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0%" stop-color="#245edb" />
           <stop offset="10%" stop-color="#3f8cf3" />
           <stop offset="30%" stop-color="#245edb" />
@@ -1661,7 +1661,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <stop offset="100%" stop-color="#1941a5" />
         </linearGradient>
 
-        <linearGradient id="winxp-start-grad-winxp-taskbar-widget_1788206311805" x1="0%" y1="0%" x2="0%" y2="100%">
+        <linearGradient id="winxp-start-grad-winxp-taskbar-widget_1788198468921" x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0%" stop-color="#388e3c" />
           <stop offset="12%" stop-color="#66bb6a" />
           <stop offset="45%" stop-color="#43a047" />
@@ -1669,7 +1669,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <stop offset="100%" stop-color="#1b5e20" />
         </linearGradient>
 
-        <linearGradient id="winxp-tray-grad-winxp-taskbar-widget_1788206311805" x1="0%" y1="0%" x2="0%" y2="100%">
+        <linearGradient id="winxp-tray-grad-winxp-taskbar-widget_1788198468921" x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0%" stop-color="#0f64c8" />
           <stop offset="30%" stop-color="#1e7ce8" />
           <stop offset="90%" stop-color="#0e54ad" />
@@ -1677,12 +1677,12 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
         </linearGradient>
       </defs>
 
-      <rect x="0" y="0" width="780" height="48" fill="url(#winxp-tb-grad-winxp-taskbar-widget_1788206311805)" />
+      <rect x="0" y="0" width="780" height="48" fill="url(#winxp-tb-grad-winxp-taskbar-widget_1788198468921)" />
       <line x1="0" y1="0" x2="780" y2="0" stroke="#529bf7" stroke-width="1.5" />
 
       <!-- Iconic Green Start Button -->
       <g transform="translate(0, 0)">
-        <path d="M 0 0 L 105 0 Q 118 0 120 24 Q 118 48 105 48 L 0 48 Z" fill="url(#winxp-start-grad-winxp-taskbar-widget_1788206311805)" />
+        <path d="M 0 0 L 105 0 Q 118 0 120 24 Q 118 48 105 48 L 0 48 Z" fill="url(#winxp-start-grad-winxp-taskbar-widget_1788198468921)" />
 
         <g transform="translate(14, 12)">
           <path d="M 3 4 Q 7 2 10 4 L 10 10 Q 6 8 3 10 Z" fill="#e11d48" />
@@ -1725,7 +1725,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
 
       <!-- System Notification Tray (Bottom Right) -->
       <g transform="translate(635, 0)">
-        <path d="M 12 0 L 145 0 L 145 48 L 0 48 Q 8 24 12 0 Z" fill="url(#winxp-tray-grad-winxp-taskbar-widget_1788206311805)" />
+        <path d="M 12 0 L 145 0 L 145 48 L 0 48 Q 8 24 12 0 Z" fill="url(#winxp-tray-grad-winxp-taskbar-widget_1788198468921)" />
         <line x1="12" y1="0" x2="145" y2="0" stroke="#3b82f6" stroke-width="1.5" />
 
         <g transform="translate(20, 16)">
