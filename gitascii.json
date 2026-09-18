@@ -2,154 +2,158 @@
   "username": "Andreicsantana",
   "widgets": [
     {
-      "instanceId": "widget_1788198777555",
-      "widgetId": "winxp-bliss",
       "name": "Winxp-bliss Widget",
-      "position": {
-        "x": 10,
-        "y": 8
-      },
       "size": {
         "width": 780,
         "height": 1488
       },
       "config": {},
       "locked": false,
+      "zIndex": 1,
       "visible": true,
-      "zIndex": 1
+      "position": {
+        "x": 10,
+        "y": 8
+      },
+      "widgetId": "winxp-bliss",
+      "instanceId": "widget_1788198777555"
     },
     {
-      "instanceId": "widget_1788205822704",
-      "widgetId": "winxp-window",
       "name": "Winxp-window Widget",
-      "position": {
-        "x": 0,
-        "y": 72
-      },
       "size": {
         "width": 728,
         "height": 336
       },
       "config": {},
       "locked": false,
+      "zIndex": 2,
       "visible": true,
-      "zIndex": 2
-    },
-    {
-      "instanceId": "widget_1788205895417",
-      "widgetId": "winxp-paint",
-      "name": "Winxp-paint Widget",
       "position": {
         "x": 0,
-        "y": 560
+        "y": 56
       },
+      "widgetId": "winxp-window",
+      "instanceId": "widget_1788205822704"
+    },
+    {
+      "name": "Winxp-paint Widget",
       "size": {
         "width": 752,
         "height": 352
       },
       "config": {},
       "locked": false,
+      "zIndex": 3,
       "visible": true,
-      "zIndex": 3
+      "position": {
+        "x": 0,
+        "y": 560
+      },
+      "widgetId": "winxp-paint",
+      "instanceId": "widget_1788205895417"
     },
     {
-      "instanceId": "widget_1788205968216",
-      "widgetId": "winxp-minesweeper",
       "name": "Winxp-minesweeper Widget",
-      "position": {
-        "x": 272,
-        "y": 328
-      },
       "size": {
         "width": 528,
         "height": 320
       },
       "config": {},
       "locked": false,
+      "zIndex": 4,
       "visible": true,
-      "zIndex": 4
+      "position": {
+        "x": 272,
+        "y": 328
+      },
+      "widgetId": "winxp-minesweeper",
+      "instanceId": "widget_1788205968216"
     },
     {
-      "instanceId": "widget_1788206137909",
-      "widgetId": "winxp-error-dialog",
       "name": "Winxp-error-dialog Widget",
-      "position": {
-        "x": 280,
-        "y": 1048
-      },
       "size": {
         "width": 520,
         "height": 210
       },
       "config": {},
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
+      "position": {
+        "x": 280,
+        "y": 1048
+      },
+      "widgetId": "winxp-error-dialog",
+      "instanceId": "widget_1788206137909"
     },
     {
-      "instanceId": "widget_1788206152509",
-      "widgetId": "winxp-media-player",
       "name": "Winxp-media-player Widget",
-      "position": {
-        "x": 72,
-        "y": 792
-      },
       "size": {
         "width": 632,
         "height": 296
       },
       "config": {},
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
+      "position": {
+        "x": 72,
+        "y": 792
+      },
+      "widgetId": "winxp-media-player",
+      "instanceId": "widget_1788206152509"
     },
     {
-      "instanceId": "widget_1788206259981",
-      "widgetId": "winxp-system-properties",
       "name": "Winxp-system-properties Widget",
-      "position": {
-        "x": 0,
-        "y": 1120
-      },
       "size": {
         "width": 704,
         "height": 360
       },
       "config": {},
       "locked": false,
+      "zIndex": 7,
       "visible": true,
-      "zIndex": 7
+      "position": {
+        "x": 0,
+        "y": 1120
+      },
+      "widgetId": "winxp-system-properties",
+      "instanceId": "widget_1788206259981"
     },
     {
-      "instanceId": "widget_1788206311805",
-      "widgetId": "winxp-taskbar",
       "name": "Winxp-taskbar Widget",
-      "position": {
-        "x": 10,
-        "y": 1488
-      },
       "size": {
         "width": 780,
         "height": 48
       },
       "config": {},
       "locked": false,
+      "zIndex": 8,
       "visible": true,
-      "zIndex": 8
+      "position": {
+        "x": 10,
+        "y": 1488
+      },
+      "widgetId": "winxp-taskbar",
+      "instanceId": "widget_1788206311805"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#050308",
+    "padding": 24,
     "textColor": "#e5e5e5",
+    "themeMode": "dark",
+    "fontFamily": "'JetBrains Mono', monospace",
     "accentColor": "#55ffff",
     "borderColor": "#1a1424",
-    "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 24,
-    "themeMode": "dark",
     "templateStyle": "rugbedbugg",
+    "backgroundColor": "#050308",
     "transparentBackground": true
   },
   "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1789748187905_htles",
+    "updatedAt": "2026-09-18T16:16:30.393Z"
+  }
 }
