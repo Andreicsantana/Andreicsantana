@@ -80,7 +80,7 @@
       "zIndex": 6,
       "visible": true,
       "position": {
-        "x": 280,
+        "x": 278,
         "y": 1048
       },
       "widgetId": "winxp-error-dialog",
@@ -153,7 +153,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789748187905_htles",
-    "updatedAt": "2026-09-18T16:16:30.393Z"
+    "revision": "rev_1789999439480_u45dt",
+    "updatedAt": "2026-09-21T14:04:01.851Z"
   }
 }
