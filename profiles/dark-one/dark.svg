@@ -257,7 +257,7 @@
 
           <text y="50" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#001a66" font-weight="bold">Computer Rig:</text>
           <text y="64" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#334155">Intel Pentium 4 @ 3.20GHz</text>
-          <text y="78" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#334155">14 Repositories Online</text>
+          <text y="78" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#334155">15 Repositories Online</text>
         </g>
 
         <!-- Task Panel Section 2: Details / Location -->
@@ -307,7 +307,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
             <line x1="12" y1="22" x2="24" y2="22" stroke="#ffffff" stroke-width="1.5" />
             <circle cx="30" cy="22" r="1.5" fill="#22c55e" />
             <text x="44" y="20" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#0f172a">Local Disk (C:)</text>
-            <text x="44" y="32" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">14 Repositories</text>
+            <text x="44" y="32" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9.5" fill="#64748b">15 Repositories</text>
           </g>
 
           <!-- Stars / Achievements Drive -->
@@ -1081,7 +1081,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
 
           <!-- Mines Left LED Display (Red 7-segment style) -->
           <rect x="10" y="5" width="54" height="26" fill="#000000" />
-          <text x="14" y="24" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ff0000" letter-spacing="2">085</text>
+          <text x="14" y="24" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ff0000" letter-spacing="2">084</text>
 
           <!-- Classic Smiley Face Button -->
           <g transform="translate(186, 4)">
@@ -1106,6 +1106,11 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="91" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="106" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="106" y1="110" x2="126" y2="110" stroke="#ffffff" stroke-width="2" />
+          <line x1="106" y1="110" x2="106" y2="130" stroke="#ffffff" stroke-width="2" />
+          <polygon points="112,114 120,118 112,122" fill="#ff0000" />
+          <line x1="112" y1="114" x2="112" y2="127" stroke="#000000" stroke-width="1.5" />
+          <rect x="110" y="125" width="8" height="2" fill="#000000" />
         
           <rect x="128" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -1115,7 +1120,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <rect x="172" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="194" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="201" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="216" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="223" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -1205,6 +1209,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="443" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="458" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="465" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="84" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="91" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -1216,7 +1221,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="135" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="150" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="157" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="172" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="172" y1="154" x2="192" y2="154" stroke="#ffffff" stroke-width="2" />
@@ -1281,7 +1285,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="113" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="128" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="135" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="150" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="157" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -1325,7 +1328,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="377" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="392" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="399" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="414" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="421" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -1342,7 +1344,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <rect x="88" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="106" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="113" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="128" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="135" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -1379,9 +1380,13 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="355" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="370" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="377" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="392" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="392" y1="198" x2="412" y2="198" stroke="#ffffff" stroke-width="2" />
+          <line x1="392" y1="198" x2="392" y2="218" stroke="#ffffff" stroke-width="2" />
+          <polygon points="398,202 406,206 398,210" fill="#ff0000" />
+          <line x1="398" y1="202" x2="398" y2="215" stroke="#000000" stroke-width="1.5" />
+          <rect x="396" y="213" width="8" height="2" fill="#000000" />
         
           <rect x="414" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -1441,13 +1446,12 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="443" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="458" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="465" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
         </g>
 
         <!-- Bottom Game Stats Caption -->
         <text x="266" y="230" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">
-          🏆 Victory! 1073 Annual Commits Swept without detonating bugs.
+          🏆 Victory! 1074 Annual Commits Swept without detonating bugs.
         </text>
       </g>
     </svg>
@@ -1584,8 +1588,8 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
                                 </text>
                               
                           <rect x="140" y="4" width="454" height="16" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
-                          <rect x="142" y="6" width="167" height="12" fill="#f1e05a" />
-                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">36%</text>
+                          <rect x="142" y="6" width="172" height="12" fill="#f1e05a" />
+                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">37%</text>
                         </g>
                       
                         <g transform="translate(0, 34)">
@@ -1601,8 +1605,8 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
                                 </text>
                               
                           <rect x="140" y="4" width="454" height="16" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
-                          <rect x="142" y="6" width="144" height="12" fill="#e34c26" />
-                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">31%</text>
+                          <rect x="142" y="6" width="135" height="12" fill="#e34c26" />
+                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">29%</text>
                         </g>
                       
                         <g transform="translate(0, 68)">
@@ -1618,8 +1622,8 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
                                 </text>
                               
                           <rect x="140" y="4" width="454" height="16" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
-                          <rect x="142" y="6" width="79" height="12" fill="#563d7c" />
-                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">17%</text>
+                          <rect x="142" y="6" width="84" height="12" fill="#563d7c" />
+                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">18%</text>
                         </g>
                       
                         <g transform="translate(0, 102)">
@@ -1652,8 +1656,8 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
                                 </text>
                               
                           <rect x="140" y="4" width="454" height="16" fill="#ffffff" stroke="#7f9db9" stroke-width="1.5" />
-                          <rect x="142" y="6" width="28" height="12" fill="#22c55e" />
-                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">6%</text>
+                          <rect x="142" y="6" width="23" height="12" fill="#22c55e" />
+                          <text x="609" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#334155">5%</text>
                         </g>
                       
           </g>
