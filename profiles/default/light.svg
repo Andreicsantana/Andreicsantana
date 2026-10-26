@@ -670,7 +670,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
         <g>
           
           <rect x="66" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="73" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="88" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -709,13 +708,13 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="359" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="374" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="381" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="396" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="418" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="440" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="73" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -775,6 +774,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <rect x="440" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="66" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="73" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="88" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="95" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -845,6 +845,7 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="425" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="440" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="447" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="66" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="73" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
@@ -910,11 +911,11 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <text x="425" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="440" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="447" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="66" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="88" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="95" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="110" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="117" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -964,7 +965,6 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <rect x="440" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="66" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="73" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="88" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="95" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -1022,13 +1022,12 @@ Computer engineering</text><text y="48" font-family="'Segoe UI', Tahoma, sans-se
           <rect x="418" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="440" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="447" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
         </g>
 
         <!-- Bottom Game Stats Caption -->
         <text x="248" y="238" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">
-          🏆 Victory! 1175 Annual Commits Swept without detonating bugs.
+          🏆 Victory! 1166 Annual Commits Swept without detonating bugs.
         </text>
       </g>
     </svg>
